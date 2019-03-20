@@ -1,0 +1,617 @@
+"name","value","year","lastValue","rank"
+"Cardiovascular diseases",5689,1990,NA,1
+"Cardiovascular diseases",5643,1991,5689,1
+"Cardiovascular diseases",5565,1992,5643,1
+"Cardiovascular diseases",5485,1993,5565,1
+"Cardiovascular diseases",5404,1994,5485,1
+"Cardiovascular diseases",5334,1995,5404,1
+"Cardiovascular diseases",5261,1996,5334,1
+"Cardiovascular diseases",5186,1997,5261,1
+"Cardiovascular diseases",5132,1998,5186,1
+"Cardiovascular diseases",5104,1999,5132,1
+"Cardiovascular diseases",5105,2000,5104,1
+"Cardiovascular diseases",5105,2001,5105,1
+"Cardiovascular diseases",5262,2002,5105,1
+"Cardiovascular diseases",5353,2003,5262,1
+"Cardiovascular diseases",5434,2004,5353,1
+"Cardiovascular diseases",5608,2005,5434,1
+"Cardiovascular diseases",5729,2006,5608,1
+"Cardiovascular diseases",5799,2007,5729,1
+"Cardiovascular diseases",5887,2008,5799,1
+"Cardiovascular diseases",5941,2009,5887,1
+"Cardiovascular diseases",5955,2010,5941,1
+"Cardiovascular diseases",5893,2011,5955,1
+"Cardiovascular diseases",5765,2012,5893,1
+"Cardiovascular diseases",5605,2013,5765,1
+"Cardiovascular diseases",5418,2014,5605,1
+"Cardiovascular diseases",5245,2015,5418,1
+"Cardiovascular diseases",5095,2016,5245,1
+"Cardiovascular diseases",4968,2017,5095,1
+"Chronic respiratory diseases",998,1990,NA,15
+"Chronic respiratory diseases",987,1991,998,14
+"Chronic respiratory diseases",971,1992,987,14
+"Chronic respiratory diseases",956,1993,971,14
+"Chronic respiratory diseases",940,1994,956,14
+"Chronic respiratory diseases",926,1995,940,14
+"Chronic respiratory diseases",914,1996,926,14
+"Chronic respiratory diseases",903,1997,914,14
+"Chronic respiratory diseases",893,1998,903,14
+"Chronic respiratory diseases",887,1999,893,14
+"Chronic respiratory diseases",884,2000,887,14
+"Chronic respiratory diseases",870,2001,884,14
+"Chronic respiratory diseases",875,2002,870,14
+"Chronic respiratory diseases",882,2003,875,14
+"Chronic respiratory diseases",883,2004,882,13
+"Chronic respiratory diseases",889,2005,883,13
+"Chronic respiratory diseases",892,2006,889,13
+"Chronic respiratory diseases",897,2007,892,13
+"Chronic respiratory diseases",901,2008,897,13
+"Chronic respiratory diseases",902,2009,901,13
+"Chronic respiratory diseases",900,2010,902,12
+"Chronic respiratory diseases",890,2011,900,11
+"Chronic respiratory diseases",874,2012,890,11
+"Chronic respiratory diseases",857,2013,874,11
+"Chronic respiratory diseases",839,2014,857,11
+"Chronic respiratory diseases",820,2015,839,11
+"Chronic respiratory diseases",805,2016,820,11
+"Chronic respiratory diseases",793,2017,805,11
+"Diabetes and kidney diseases",1617,1990,NA,10
+"Diabetes and kidney diseases",1606,1991,1617,10
+"Diabetes and kidney diseases",1590,1992,1606,10
+"Diabetes and kidney diseases",1578,1993,1590,10
+"Diabetes and kidney diseases",1574,1994,1578,10
+"Diabetes and kidney diseases",1580,1995,1574,10
+"Diabetes and kidney diseases",1586,1996,1580,10
+"Diabetes and kidney diseases",1595,1997,1586,10
+"Diabetes and kidney diseases",1605,1998,1595,10
+"Diabetes and kidney diseases",1615,1999,1605,9
+"Diabetes and kidney diseases",1631,2000,1615,9
+"Diabetes and kidney diseases",1628,2001,1631,9
+"Diabetes and kidney diseases",1670,2002,1628,9
+"Diabetes and kidney diseases",1695,2003,1670,8
+"Diabetes and kidney diseases",1695,2004,1695,8
+"Diabetes and kidney diseases",1709,2005,1695,8
+"Diabetes and kidney diseases",1727,2006,1709,8
+"Diabetes and kidney diseases",1741,2007,1727,8
+"Diabetes and kidney diseases",1756,2008,1741,8
+"Diabetes and kidney diseases",1765,2009,1756,8
+"Diabetes and kidney diseases",1767,2010,1765,6
+"Diabetes and kidney diseases",1759,2011,1767,6
+"Diabetes and kidney diseases",1739,2012,1759,6
+"Diabetes and kidney diseases",1713,2013,1739,6
+"Diabetes and kidney diseases",1687,2014,1713,7
+"Diabetes and kidney diseases",1659,2015,1687,8
+"Diabetes and kidney diseases",1633,2016,1659,7
+"Diabetes and kidney diseases",1593,2017,1633,7
+"Digestive diseases",1193,1990,NA,12
+"Digestive diseases",1168,1991,1193,12
+"Digestive diseases",1138,1992,1168,12
+"Digestive diseases",1110,1993,1138,12
+"Digestive diseases",1083,1994,1110,12
+"Digestive diseases",1060,1995,1083,12
+"Digestive diseases",1038,1996,1060,12
+"Digestive diseases",1017,1997,1038,12
+"Digestive diseases",998,1998,1017,12
+"Digestive diseases",984,1999,998,12
+"Digestive diseases",970,2000,984,12
+"Digestive diseases",967,2001,970,12
+"Digestive diseases",970,2002,967,12
+"Digestive diseases",962,2003,970,12
+"Digestive diseases",941,2004,962,12
+"Digestive diseases",928,2005,941,12
+"Digestive diseases",913,2006,928,12
+"Digestive diseases",908,2007,913,12
+"Digestive diseases",906,2008,908,12
+"Digestive diseases",904,2009,906,12
+"Digestive diseases",900,2010,904,13
+"Digestive diseases",886,2011,900,12
+"Digestive diseases",869,2012,886,12
+"Digestive diseases",852,2013,869,12
+"Digestive diseases",836,2014,852,12
+"Digestive diseases",816,2015,836,12
+"Digestive diseases",801,2016,816,12
+"Digestive diseases",790,2017,801,12
+"Enteric infections",1052,1990,NA,13
+"Enteric infections",980,1991,1052,15
+"Enteric infections",865,1992,980,15
+"Enteric infections",767,1993,865,15
+"Enteric infections",682,1994,767,15
+"Enteric infections",615,1995,682,15
+"Enteric infections",551,1996,615,16
+"Enteric infections",497,1997,551,17
+"Enteric infections",453,1998,497,17
+"Enteric infections",422,1999,453,17
+"Enteric infections",392,2000,422,17
+"Enteric infections",368,2001,392,17
+"Enteric infections",347,2002,368,17
+"Enteric infections",327,2003,347,17
+"Enteric infections",307,2004,327,17
+"Enteric infections",290,2005,307,17
+"Enteric infections",274,2006,290,17
+"Enteric infections",262,2007,274,17
+"Enteric infections",252,2008,262,17
+"Enteric infections",244,2009,252,17
+"Enteric infections",237,2010,244,17
+"Enteric infections",231,2011,237,17
+"Enteric infections",227,2012,231,17
+"Enteric infections",223,2013,227,17
+"Enteric infections",221,2014,223,17
+"Enteric infections",219,2015,221,18
+"Enteric infections",218,2016,219,18
+"Enteric infections",218,2017,218,18
+"HIV/AIDS and sexually transmitted infections",69,1990,NA,22
+"HIV/AIDS and sexually transmitted infections",72,1991,69,22
+"HIV/AIDS and sexually transmitted infections",75,1992,72,22
+"HIV/AIDS and sexually transmitted infections",77,1993,75,21
+"HIV/AIDS and sexually transmitted infections",80,1994,77,21
+"HIV/AIDS and sexually transmitted infections",83,1995,80,21
+"HIV/AIDS and sexually transmitted infections",86,1996,83,21
+"HIV/AIDS and sexually transmitted infections",89,1997,86,21
+"HIV/AIDS and sexually transmitted infections",92,1998,89,21
+"HIV/AIDS and sexually transmitted infections",99,1999,92,21
+"HIV/AIDS and sexually transmitted infections",109,2000,99,21
+"HIV/AIDS and sexually transmitted infections",117,2001,109,21
+"HIV/AIDS and sexually transmitted infections",124,2002,117,21
+"HIV/AIDS and sexually transmitted infections",129,2003,124,21
+"HIV/AIDS and sexually transmitted infections",131,2004,129,21
+"HIV/AIDS and sexually transmitted infections",133,2005,131,21
+"HIV/AIDS and sexually transmitted infections",132,2006,133,21
+"HIV/AIDS and sexually transmitted infections",130,2007,132,21
+"HIV/AIDS and sexually transmitted infections",128,2008,130,21
+"HIV/AIDS and sexually transmitted infections",125,2009,128,21
+"HIV/AIDS and sexually transmitted infections",123,2010,125,21
+"HIV/AIDS and sexually transmitted infections",120,2011,123,21
+"HIV/AIDS and sexually transmitted infections",118,2012,120,21
+"HIV/AIDS and sexually transmitted infections",115,2013,118,21
+"HIV/AIDS and sexually transmitted infections",113,2014,115,21
+"HIV/AIDS and sexually transmitted infections",110,2015,113,21
+"HIV/AIDS and sexually transmitted infections",108,2016,110,20
+"HIV/AIDS and sexually transmitted infections",107,2017,108,20
+"Maternal and neonatal disorders",4506,1990,NA,2
+"Maternal and neonatal disorders",4448,1991,4506,2
+"Maternal and neonatal disorders",4316,1992,4448,2
+"Maternal and neonatal disorders",4180,1993,4316,2
+"Maternal and neonatal disorders",4032,1994,4180,2
+"Maternal and neonatal disorders",3923,1995,4032,2
+"Maternal and neonatal disorders",3783,1996,3923,2
+"Maternal and neonatal disorders",3640,1997,3783,2
+"Maternal and neonatal disorders",3506,1998,3640,2
+"Maternal and neonatal disorders",3359,1999,3506,2
+"Maternal and neonatal disorders",3206,2000,3359,2
+"Maternal and neonatal disorders",3065,2001,3206,2
+"Maternal and neonatal disorders",2924,2002,3065,2
+"Maternal and neonatal disorders",2754,2003,2924,2
+"Maternal and neonatal disorders",2557,2004,2754,2
+"Maternal and neonatal disorders",2372,2005,2557,2
+"Maternal and neonatal disorders",2191,2006,2372,2
+"Maternal and neonatal disorders",2033,2007,2191,3
+"Maternal and neonatal disorders",1887,2008,2033,5
+"Maternal and neonatal disorders",1768,2009,1887,7
+"Maternal and neonatal disorders",1664,2010,1768,9
+"Maternal and neonatal disorders",1566,2011,1664,9
+"Maternal and neonatal disorders",1481,2012,1566,10
+"Maternal and neonatal disorders",1407,2013,1481,10
+"Maternal and neonatal disorders",1341,2014,1407,10
+"Maternal and neonatal disorders",1278,2015,1341,10
+"Maternal and neonatal disorders",1222,2016,1278,10
+"Maternal and neonatal disorders",1152,2017,1222,10
+"Mental disorders",1689,1990,NA,8
+"Mental disorders",1686,1991,1689,8
+"Mental disorders",1683,1992,1686,8
+"Mental disorders",1681,1993,1683,8
+"Mental disorders",1680,1994,1681,8
+"Mental disorders",1681,1995,1680,8
+"Mental disorders",1681,1996,1681,8
+"Mental disorders",1681,1997,1681,8
+"Mental disorders",1681,1998,1681,8
+"Mental disorders",1683,1999,1681,8
+"Mental disorders",1684,2000,1683,8
+"Mental disorders",1685,2001,1684,8
+"Mental disorders",1686,2002,1685,8
+"Mental disorders",1688,2003,1686,9
+"Mental disorders",1689,2004,1688,9
+"Mental disorders",1689,2005,1689,9
+"Mental disorders",1689,2006,1689,10
+"Mental disorders",1688,2007,1689,9
+"Mental disorders",1687,2008,1688,9
+"Mental disorders",1686,2009,1687,9
+"Mental disorders",1686,2010,1686,8
+"Mental disorders",1687,2011,1686,7
+"Mental disorders",1688,2012,1687,7
+"Mental disorders",1690,2013,1688,7
+"Mental disorders",1693,2014,1690,6
+"Mental disorders",1696,2015,1693,7
+"Mental disorders",1699,2016,1696,6
+"Mental disorders",1702,2017,1699,6
+"Musculoskeletal disorders",1917,1990,NA,6
+"Musculoskeletal disorders",1923,1991,1917,6
+"Musculoskeletal disorders",1928,1992,1923,6
+"Musculoskeletal disorders",1934,1993,1928,6
+"Musculoskeletal disorders",1939,1994,1934,6
+"Musculoskeletal disorders",1942,1995,1939,6
+"Musculoskeletal disorders",1947,1996,1942,6
+"Musculoskeletal disorders",1951,1997,1947,6
+"Musculoskeletal disorders",1957,1998,1951,5
+"Musculoskeletal disorders",1962,1999,1957,5
+"Musculoskeletal disorders",1965,2000,1962,5
+"Musculoskeletal disorders",1970,2001,1965,5
+"Musculoskeletal disorders",1975,2002,1970,5
+"Musculoskeletal disorders",1981,2003,1975,5
+"Musculoskeletal disorders",1984,2004,1981,5
+"Musculoskeletal disorders",1987,2005,1984,5
+"Musculoskeletal disorders",1989,2006,1987,5
+"Musculoskeletal disorders",1991,2007,1989,4
+"Musculoskeletal disorders",1992,2008,1991,2
+"Musculoskeletal disorders",1993,2009,1992,2
+"Musculoskeletal disorders",1994,2010,1993,2
+"Musculoskeletal disorders",1995,2011,1994,2
+"Musculoskeletal disorders",1997,2012,1995,2
+"Musculoskeletal disorders",1999,2013,1997,2
+"Musculoskeletal disorders",2001,2014,1999,2
+"Musculoskeletal disorders",2004,2015,2001,2
+"Musculoskeletal disorders",2007,2016,2004,2
+"Musculoskeletal disorders",2010,2017,2007,2
+"Neglected tropical diseases and malaria",109,1990,NA,21
+"Neglected tropical diseases and malaria",93,1991,109,21
+"Neglected tropical diseases and malaria",78,1992,93,21
+"Neglected tropical diseases and malaria",68,1993,78,22
+"Neglected tropical diseases and malaria",61,1994,68,22
+"Neglected tropical diseases and malaria",55,1995,61,22
+"Neglected tropical diseases and malaria",51,1996,55,22
+"Neglected tropical diseases and malaria",46,1997,51,22
+"Neglected tropical diseases and malaria",42,1998,46,22
+"Neglected tropical diseases and malaria",38,1999,42,22
+"Neglected tropical diseases and malaria",35,2000,38,22
+"Neglected tropical diseases and malaria",32,2001,35,22
+"Neglected tropical diseases and malaria",30,2002,32,22
+"Neglected tropical diseases and malaria",28,2003,30,22
+"Neglected tropical diseases and malaria",27,2004,28,22
+"Neglected tropical diseases and malaria",26,2005,27,22
+"Neglected tropical diseases and malaria",24,2006,26,22
+"Neglected tropical diseases and malaria",23,2007,24,22
+"Neglected tropical diseases and malaria",22,2008,23,22
+"Neglected tropical diseases and malaria",21,2009,22,22
+"Neglected tropical diseases and malaria",20,2010,21,22
+"Neglected tropical diseases and malaria",19,2011,20,22
+"Neglected tropical diseases and malaria",18,2012,19,22
+"Neglected tropical diseases and malaria",18,2013,18,22
+"Neglected tropical diseases and malaria",17,2014,18,22
+"Neglected tropical diseases and malaria",17,2015,17,22
+"Neglected tropical diseases and malaria",16,2016,17,22
+"Neglected tropical diseases and malaria",16,2017,16,22
+"Neoplasms",1618,1990,NA,9
+"Neoplasms",1635,1991,1618,9
+"Neoplasms",1639,1992,1635,9
+"Neoplasms",1642,1993,1639,9
+"Neoplasms",1649,1994,1642,9
+"Neoplasms",1646,1995,1649,9
+"Neoplasms",1642,1996,1646,9
+"Neoplasms",1633,1997,1642,9
+"Neoplasms",1624,1998,1633,9
+"Neoplasms",1610,1999,1624,10
+"Neoplasms",1601,2000,1610,10
+"Neoplasms",1587,2001,1601,10
+"Neoplasms",1617,2002,1587,10
+"Neoplasms",1637,2003,1617,10
+"Neoplasms",1645,2004,1637,10
+"Neoplasms",1687,2005,1645,10
+"Neoplasms",1702,2006,1687,9
+"Neoplasms",1765,2007,1702,7
+"Neoplasms",1825,2008,1765,6
+"Neoplasms",1873,2009,1825,4
+"Neoplasms",1908,2010,1873,4
+"Neoplasms",1908,2011,1908,3
+"Neoplasms",1890,2012,1908,3
+"Neoplasms",1866,2013,1890,4
+"Neoplasms",1844,2014,1866,3
+"Neoplasms",1817,2015,1844,3
+"Neoplasms",1792,2016,1817,3
+"Neoplasms",1766,2017,1792,3
+"Neurological disorders",1703,1990,NA,7
+"Neurological disorders",1704,1991,1703,7
+"Neurological disorders",1701,1992,1704,7
+"Neurological disorders",1699,1993,1701,7
+"Neurological disorders",1698,1994,1699,7
+"Neurological disorders",1698,1995,1698,7
+"Neurological disorders",1700,1996,1698,7
+"Neurological disorders",1702,1997,1700,7
+"Neurological disorders",1705,1998,1702,7
+"Neurological disorders",1709,1999,1705,7
+"Neurological disorders",1714,2000,1709,7
+"Neurological disorders",1716,2001,1714,7
+"Neurological disorders",1730,2002,1716,7
+"Neurological disorders",1741,2003,1730,7
+"Neurological disorders",1749,2004,1741,7
+"Neurological disorders",1763,2005,1749,6
+"Neurological disorders",1776,2006,1763,6
+"Neurological disorders",1786,2007,1776,6
+"Neurological disorders",1800,2008,1786,7
+"Neurological disorders",1812,2009,1800,6
+"Neurological disorders",1818,2010,1812,5
+"Neurological disorders",1810,2011,1818,5
+"Neurological disorders",1796,2012,1810,5
+"Neurological disorders",1783,2013,1796,5
+"Neurological disorders",1777,2014,1783,5
+"Neurological disorders",1763,2015,1777,6
+"Neurological disorders",1753,2016,1763,5
+"Neurological disorders",1745,2017,1753,4
+"Nutritional deficiencies",761,1990,NA,17
+"Nutritional deficiencies",712,1991,761,16
+"Nutritional deficiencies",660,1992,712,16
+"Nutritional deficiencies",610,1993,660,16
+"Nutritional deficiencies",567,1994,610,17
+"Nutritional deficiencies",526,1995,567,18
+"Nutritional deficiencies",486,1996,526,18
+"Nutritional deficiencies",446,1997,486,18
+"Nutritional deficiencies",407,1998,446,18
+"Nutritional deficiencies",371,1999,407,18
+"Nutritional deficiencies",342,2000,371,18
+"Nutritional deficiencies",318,2001,342,18
+"Nutritional deficiencies",294,2002,318,18
+"Nutritional deficiencies",270,2003,294,18
+"Nutritional deficiencies",248,2004,270,18
+"Nutritional deficiencies",230,2005,248,18
+"Nutritional deficiencies",215,2006,230,18
+"Nutritional deficiencies",198,2007,215,18
+"Nutritional deficiencies",183,2008,198,19
+"Nutritional deficiencies",170,2009,183,19
+"Nutritional deficiencies",159,2010,170,19
+"Nutritional deficiencies",150,2011,159,19
+"Nutritional deficiencies",140,2012,150,19
+"Nutritional deficiencies",131,2013,140,19
+"Nutritional deficiencies",122,2014,131,20
+"Nutritional deficiencies",114,2015,122,20
+"Nutritional deficiencies",106,2016,114,21
+"Nutritional deficiencies",99,2017,106,21
+"Other infectious diseases",830,1990,NA,16
+"Other infectious diseases",416,1991,830,19
+"Other infectious diseases",408,1992,416,19
+"Other infectious diseases",388,1993,408,19
+"Other infectious diseases",363,1994,388,19
+"Other infectious diseases",344,1995,363,19
+"Other infectious diseases",335,1996,344,19
+"Other infectious diseases",319,1997,335,19
+"Other infectious diseases",304,1998,319,19
+"Other infectious diseases",267,1999,304,19
+"Other infectious diseases",252,2000,267,19
+"Other infectious diseases",224,2001,252,19
+"Other infectious diseases",208,2002,224,19
+"Other infectious diseases",201,2003,208,20
+"Other infectious diseases",193,2004,201,20
+"Other infectious diseases",183,2005,193,20
+"Other infectious diseases",182,2006,183,20
+"Other infectious diseases",172,2007,182,20
+"Other infectious diseases",150,2008,172,20
+"Other infectious diseases",145,2009,150,20
+"Other infectious diseases",141,2010,145,20
+"Other infectious diseases",138,2011,141,20
+"Other infectious diseases",131,2012,138,20
+"Other infectious diseases",128,2013,131,20
+"Other infectious diseases",125,2014,128,19
+"Other infectious diseases",122,2015,125,19
+"Other infectious diseases",120,2016,122,19
+"Other infectious diseases",127,2017,120,19
+"Other non-communicable diseases",4067,1990,NA,3
+"Other non-communicable diseases",4100,1991,4067,3
+"Other non-communicable diseases",3930,1992,4100,3
+"Other non-communicable diseases",3758,1993,3930,3
+"Other non-communicable diseases",3582,1994,3758,3
+"Other non-communicable diseases",3447,1995,3582,3
+"Other non-communicable diseases",3276,1996,3447,3
+"Other non-communicable diseases",3111,1997,3276,3
+"Other non-communicable diseases",2957,1998,3111,3
+"Other non-communicable diseases",2818,1999,2957,3
+"Other non-communicable diseases",2675,2000,2818,3
+"Other non-communicable diseases",2553,2001,2675,3
+"Other non-communicable diseases",2453,2002,2553,3
+"Other non-communicable diseases",2348,2003,2453,3
+"Other non-communicable diseases",2252,2004,2348,3
+"Other non-communicable diseases",2166,2005,2252,3
+"Other non-communicable diseases",2078,2006,2166,3
+"Other non-communicable diseases",1988,2007,2078,5
+"Other non-communicable diseases",1906,2008,1988,4
+"Other non-communicable diseases",1830,2009,1906,5
+"Other non-communicable diseases",1755,2010,1830,7
+"Other non-communicable diseases",1682,2011,1755,8
+"Other non-communicable diseases",1615,2012,1682,8
+"Other non-communicable diseases",1554,2013,1615,8
+"Other non-communicable diseases",1501,2014,1554,8
+"Other non-communicable diseases",1451,2015,1501,9
+"Other non-communicable diseases",1409,2016,1451,8
+"Other non-communicable diseases",1353,2017,1409,8
+"Respiratory infections and tuberculosis",1514,1990,NA,11
+"Respiratory infections and tuberculosis",1484,1991,1514,11
+"Respiratory infections and tuberculosis",1417,1992,1484,11
+"Respiratory infections and tuberculosis",1355,1993,1417,11
+"Respiratory infections and tuberculosis",1295,1994,1355,11
+"Respiratory infections and tuberculosis",1243,1995,1295,11
+"Respiratory infections and tuberculosis",1194,1996,1243,11
+"Respiratory infections and tuberculosis",1151,1997,1194,11
+"Respiratory infections and tuberculosis",1114,1998,1151,11
+"Respiratory infections and tuberculosis",1083,1999,1114,11
+"Respiratory infections and tuberculosis",1054,2000,1083,11
+"Respiratory infections and tuberculosis",1018,2001,1054,11
+"Respiratory infections and tuberculosis",1013,2002,1018,11
+"Respiratory infections and tuberculosis",999,2003,1013,11
+"Respiratory infections and tuberculosis",975,2004,999,11
+"Respiratory infections and tuberculosis",966,2005,975,11
+"Respiratory infections and tuberculosis",950,2006,966,11
+"Respiratory infections and tuberculosis",940,2007,950,11
+"Respiratory infections and tuberculosis",933,2008,940,11
+"Respiratory infections and tuberculosis",917,2009,933,11
+"Respiratory infections and tuberculosis",903,2010,917,11
+"Respiratory infections and tuberculosis",880,2011,903,13
+"Respiratory infections and tuberculosis",851,2012,880,13
+"Respiratory infections and tuberculosis",819,2013,851,13
+"Respiratory infections and tuberculosis",787,2014,819,14
+"Respiratory infections and tuberculosis",756,2015,787,14
+"Respiratory infections and tuberculosis",732,2016,756,15
+"Respiratory infections and tuberculosis",710,2017,732,15
+"Self-harm and interpersonal violence",182,1990,NA,20
+"Self-harm and interpersonal violence",214,1991,182,20
+"Self-harm and interpersonal violence",181,1992,214,20
+"Self-harm and interpersonal violence",180,1993,181,20
+"Self-harm and interpersonal violence",178,1994,180,20
+"Self-harm and interpersonal violence",181,1995,178,20
+"Self-harm and interpersonal violence",181,1996,181,20
+"Self-harm and interpersonal violence",177,1997,181,20
+"Self-harm and interpersonal violence",176,1998,177,20
+"Self-harm and interpersonal violence",175,1999,176,20
+"Self-harm and interpersonal violence",176,2000,175,20
+"Self-harm and interpersonal violence",177,2001,176,20
+"Self-harm and interpersonal violence",181,2002,177,20
+"Self-harm and interpersonal violence",202,2003,181,19
+"Self-harm and interpersonal violence",220,2004,202,19
+"Self-harm and interpersonal violence",193,2005,220,19
+"Self-harm and interpersonal violence",190,2006,193,19
+"Self-harm and interpersonal violence",189,2007,190,19
+"Self-harm and interpersonal violence",189,2008,189,18
+"Self-harm and interpersonal violence",190,2009,189,18
+"Self-harm and interpersonal violence",191,2010,190,18
+"Self-harm and interpersonal violence",193,2011,191,18
+"Self-harm and interpersonal violence",196,2012,193,18
+"Self-harm and interpersonal violence",195,2013,196,18
+"Self-harm and interpersonal violence",201,2014,195,18
+"Self-harm and interpersonal violence",250,2015,201,17
+"Self-harm and interpersonal violence",507,2016,250,17
+"Self-harm and interpersonal violence",593,2017,507,16
+"Sense organ diseases",1006,1990,NA,14
+"Sense organ diseases",995,1991,1006,13
+"Sense organ diseases",984,1992,995,13
+"Sense organ diseases",974,1993,984,13
+"Sense organ diseases",964,1994,974,13
+"Sense organ diseases",955,1995,964,13
+"Sense organ diseases",946,1996,955,13
+"Sense organ diseases",937,1997,946,13
+"Sense organ diseases",928,1998,937,13
+"Sense organ diseases",919,1999,928,13
+"Sense organ diseases",911,2000,919,13
+"Sense organ diseases",903,2001,911,13
+"Sense organ diseases",895,2002,903,13
+"Sense organ diseases",886,2003,895,13
+"Sense organ diseases",878,2004,886,14
+"Sense organ diseases",870,2005,878,14
+"Sense organ diseases",861,2006,870,14
+"Sense organ diseases",852,2007,861,14
+"Sense organ diseases",842,2008,852,14
+"Sense organ diseases",833,2009,842,14
+"Sense organ diseases",825,2010,833,14
+"Sense organ diseases",818,2011,825,14
+"Sense organ diseases",811,2012,818,14
+"Sense organ diseases",805,2013,811,14
+"Sense organ diseases",798,2014,805,13
+"Sense organ diseases",792,2015,798,13
+"Sense organ diseases",786,2016,792,13
+"Sense organ diseases",780,2017,786,13
+"Skin and subcutaneous diseases",524,1990,NA,19
+"Skin and subcutaneous diseases",527,1991,524,18
+"Skin and subcutaneous diseases",529,1992,527,18
+"Skin and subcutaneous diseases",532,1993,529,18
+"Skin and subcutaneous diseases",534,1994,532,18
+"Skin and subcutaneous diseases",536,1995,534,17
+"Skin and subcutaneous diseases",539,1996,536,17
+"Skin and subcutaneous diseases",540,1997,539,16
+"Skin and subcutaneous diseases",543,1998,540,16
+"Skin and subcutaneous diseases",545,1999,543,16
+"Skin and subcutaneous diseases",547,2000,545,16
+"Skin and subcutaneous diseases",549,2001,547,16
+"Skin and subcutaneous diseases",551,2002,549,16
+"Skin and subcutaneous diseases",553,2003,551,16
+"Skin and subcutaneous diseases",556,2004,553,16
+"Skin and subcutaneous diseases",560,2005,556,16
+"Skin and subcutaneous diseases",562,2006,560,16
+"Skin and subcutaneous diseases",565,2007,562,16
+"Skin and subcutaneous diseases",568,2008,565,16
+"Skin and subcutaneous diseases",571,2009,568,16
+"Skin and subcutaneous diseases",574,2010,571,16
+"Skin and subcutaneous diseases",576,2011,574,16
+"Skin and subcutaneous diseases",578,2012,576,16
+"Skin and subcutaneous diseases",580,2013,578,16
+"Skin and subcutaneous diseases",581,2014,580,16
+"Skin and subcutaneous diseases",582,2015,581,16
+"Skin and subcutaneous diseases",583,2016,582,16
+"Skin and subcutaneous diseases",584,2017,583,17
+"Substance use disorders",574,1990,NA,18
+"Substance use disorders",579,1991,574,17
+"Substance use disorders",583,1992,579,17
+"Substance use disorders",587,1993,583,17
+"Substance use disorders",590,1994,587,16
+"Substance use disorders",593,1995,590,16
+"Substance use disorders",596,1996,593,15
+"Substance use disorders",599,1997,596,15
+"Substance use disorders",603,1998,599,15
+"Substance use disorders",606,1999,603,15
+"Substance use disorders",609,2000,606,15
+"Substance use disorders",608,2001,609,15
+"Substance use disorders",611,2002,608,15
+"Substance use disorders",610,2003,611,15
+"Substance use disorders",605,2004,610,15
+"Substance use disorders",605,2005,605,15
+"Substance use disorders",613,2006,605,15
+"Substance use disorders",632,2007,613,15
+"Substance use disorders",654,2008,632,15
+"Substance use disorders",675,2009,654,15
+"Substance use disorders",690,2010,675,15
+"Substance use disorders",702,2011,690,15
+"Substance use disorders",714,2012,702,15
+"Substance use disorders",725,2013,714,15
+"Substance use disorders",735,2014,725,15
+"Substance use disorders",744,2015,735,15
+"Substance use disorders",752,2016,744,14
+"Substance use disorders",759,2017,752,14
+"Transport injuries",2521,1990,NA,5
+"Transport injuries",2624,1991,2521,4
+"Transport injuries",2432,1992,2624,4
+"Transport injuries",2367,1993,2432,4
+"Transport injuries",2303,1994,2367,4
+"Transport injuries",2252,1995,2303,4
+"Transport injuries",2207,1996,2252,4
+"Transport injuries",2170,1997,2207,4
+"Transport injuries",2129,1998,2170,4
+"Transport injuries",2102,1999,2129,4
+"Transport injuries",2077,2000,2102,4
+"Transport injuries",2062,2001,2077,4
+"Transport injuries",2115,2002,2062,4
+"Transport injuries",2104,2003,2115,4
+"Transport injuries",2087,2004,2104,4
+"Transport injuries",2093,2005,2087,4
+"Transport injuries",2076,2006,2093,4
+"Transport injuries",2049,2007,2076,2
+"Transport injuries",1991,2008,2049,3
+"Transport injuries",1954,2009,1991,3
+"Transport injuries",1930,2010,1954,3
+"Transport injuries",1904,2011,1930,4
+"Transport injuries",1878,2012,1904,4
+"Transport injuries",1869,2013,1878,3
+"Transport injuries",1841,2014,1869,4
+"Transport injuries",1805,2015,1841,4
+"Transport injuries",1766,2016,1805,4
+"Transport injuries",1720,2017,1766,5
+"Unintentional injuries",2821,1990,NA,4
+"Unintentional injuries",2312,1991,2821,5
+"Unintentional injuries",2245,1992,2312,5
+"Unintentional injuries",2182,1993,2245,5
+"Unintentional injuries",2173,1994,2182,5
+"Unintentional injuries",2065,1995,2173,5
+"Unintentional injuries",2021,1996,2065,5
+"Unintentional injuries",2055,1997,2021,5
+"Unintentional injuries",1945,1998,2055,6
+"Unintentional injuries",1884,1999,1945,6
+"Unintentional injuries",1835,2000,1884,6
+"Unintentional injuries",1817,2001,1835,6
+"Unintentional injuries",1812,2002,1817,6
+"Unintentional injuries",1810,2003,1812,6
+"Unintentional injuries",1790,2004,1810,6
+"Unintentional injuries",1719,2005,1790,7
+"Unintentional injuries",1762,2006,1719,7
+"Unintentional injuries",1653,2007,1762,10
+"Unintentional injuries",1608,2008,1653,10
+"Unintentional injuries",1612,2009,1608,10
+"Unintentional injuries",1558,2010,1612,10
+"Unintentional injuries",1528,2011,1558,10
+"Unintentional injuries",1506,2012,1528,9
+"Unintentional injuries",1475,2013,1506,9
+"Unintentional injuries",1443,2014,1475,9
+"Unintentional injuries",1788,2015,1443,5
+"Unintentional injuries",1386,2016,1788,9
+"Unintentional injuries",1351,2017,1386,9
