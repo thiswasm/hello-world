@@ -1,0 +1,533 @@
+name,year,value,lastValue,rank
+Tobacco,1990,3152.9,1420.3,1
+High systolic blood pressure,1990,2474.2,753.7,2
+Dietary risks,1990,2168.7,928.8,3
+High body-mass index,1990,1391.5,1152.9,4
+High LDL cholesterol,1990,1228.6,346.9,5
+Child and maternal malnutrition,1990,1093.0,715.7,6
+High fasting plasma glucose,1990,1043.2,899.5,7
+Air pollution,1990,606.5,342.6,8
+Impaired kidney function,1990,400.1,200.9,9
+Occupational risks,1990,385.6,457.7,10
+Low physical activity,1990,341.2,130.4,11
+Alcohol use,1990,221.8,440.5,12
+Drug use,1990,220.8,335.2,13
+Unsafe sex,1990,204.2,115.7,14
+Low bone mineral density,1990,104.2,117.0,15
+Intimate partner violence,1990,90.0,79.0,16
+Childhood maltreatment,1990,90.0,94.1,17
+Other environmental risks,1990,88.3,42.8,18
+"Unsafe water, sanitation, and handwashing",1990,8.6,6.4,19
+Tobacco,1991,3035.1,1420.3,1
+High systolic blood pressure,1991,2391.9,753.7,2
+Dietary risks,1991,2090.0,928.8,3
+High body-mass index,1991,1376.2,1152.9,4
+High LDL cholesterol,1991,1177.6,346.9,5
+Child and maternal malnutrition,1991,1050.9,715.7,6
+High fasting plasma glucose,1991,1025.0,899.5,7
+Air pollution,1991,590.3,342.6,8
+Impaired kidney function,1991,385.3,200.9,9
+Occupational risks,1991,383.0,457.7,10
+Low physical activity,1991,329.2,130.4,11
+Alcohol use,1991,240.2,440.5,12
+Drug use,1991,223.8,335.2,13
+Unsafe sex,1991,196.1,115.7,14
+Low bone mineral density,1991,103.5,117.0,15
+Childhood maltreatment,1991,90.5,94.1,16
+Intimate partner violence,1991,90.2,79.0,17
+Other environmental risks,1991,86.5,42.8,18
+"Unsafe water, sanitation, and handwashing",1991,8.4,6.4,19
+Tobacco,1992,2932.8,1420.3,1
+High systolic blood pressure,1992,2311.9,753.7,2
+Dietary risks,1992,2020.9,928.8,3
+High body-mass index,1992,1364.5,1152.9,4
+High LDL cholesterol,1992,1125.8,346.9,5
+High fasting plasma glucose,1992,1008.4,899.5,6
+Child and maternal malnutrition,1992,994.3,715.7,7
+Air pollution,1992,576.6,342.6,8
+Occupational risks,1992,381.2,457.7,9
+Impaired kidney function,1992,371.4,200.9,10
+Low physical activity,1992,318.5,130.4,11
+Alcohol use,1992,258.0,440.5,12
+Drug use,1992,227.7,335.2,13
+Unsafe sex,1992,188.8,115.7,14
+Low bone mineral density,1992,102.9,117.0,15
+Childhood maltreatment,1992,91.0,94.1,16
+Intimate partner violence,1992,90.2,79.0,17
+Other environmental risks,1992,84.7,42.8,18
+"Unsafe water, sanitation, and handwashing",1992,8.0,6.4,19
+Tobacco,1993,2876.9,1420.3,1
+High systolic blood pressure,1993,2275.9,753.7,2
+Dietary risks,1993,1987.7,928.8,3
+High body-mass index,1993,1368.7,1152.9,4
+High LDL cholesterol,1993,1097.9,346.9,5
+High fasting plasma glucose,1993,1003.1,899.5,6
+Child and maternal malnutrition,1993,977.3,715.7,7
+Air pollution,1993,576.6,342.6,8
+Occupational risks,1993,382.1,457.7,9
+Impaired kidney function,1993,366.6,200.9,10
+Low physical activity,1993,313.2,130.4,11
+Alcohol use,1993,277.1,440.5,12
+Drug use,1993,233.2,335.2,13
+Unsafe sex,1993,186.6,115.7,14
+Low bone mineral density,1993,102.8,117.0,15
+Childhood maltreatment,1993,91.5,94.1,16
+Intimate partner violence,1993,91.2,79.0,17
+Other environmental risks,1993,84.0,42.8,18
+"Unsafe water, sanitation, and handwashing",1993,7.9,6.4,19
+Tobacco,1994,2743.6,1420.3,1
+High systolic blood pressure,1994,2145.5,753.7,2
+Dietary risks,1994,1876.9,928.8,3
+High body-mass index,1994,1334.4,1152.9,4
+High LDL cholesterol,1994,1016.3,346.9,5
+High fasting plasma glucose,1994,967.3,899.5,6
+Child and maternal malnutrition,1994,963.1,715.7,7
+Air pollution,1994,554.4,342.6,8
+Occupational risks,1994,378.3,457.7,9
+Impaired kidney function,1994,347.8,200.9,10
+Low physical activity,1994,294.8,130.4,11
+Alcohol use,1994,294.3,440.5,12
+Drug use,1994,236.5,335.2,13
+Unsafe sex,1994,178.0,115.7,14
+Low bone mineral density,1994,102.0,117.0,15
+Childhood maltreatment,1994,91.8,94.1,16
+Intimate partner violence,1994,90.6,79.0,17
+Other environmental risks,1994,80.8,42.8,18
+"Unsafe water, sanitation, and handwashing",1994,7.7,6.4,19
+Tobacco,1995,2697.6,1420.3,1
+High systolic blood pressure,1995,2105.7,753.7,2
+Dietary risks,1995,1851.1,928.8,3
+High body-mass index,1995,1341.6,1152.9,4
+High LDL cholesterol,1995,984.9,346.9,5
+High fasting plasma glucose,1995,964.7,899.5,6
+Child and maternal malnutrition,1995,956.4,715.7,7
+Air pollution,1995,554.0,342.6,8
+Occupational risks,1995,380.0,457.7,9
+Impaired kidney function,1995,343.2,200.9,10
+Alcohol use,1995,312.7,440.5,11
+Low physical activity,1995,289.9,130.4,12
+Drug use,1995,243.1,335.2,13
+Unsafe sex,1995,176.8,115.7,14
+Low bone mineral density,1995,102.4,117.0,15
+Childhood maltreatment,1995,92.0,94.1,16
+Intimate partner violence,1995,89.6,79.0,17
+Other environmental risks,1995,80.0,42.8,18
+"Unsafe water, sanitation, and handwashing",1995,7.7,6.4,19
+Tobacco,1996,2599.4,1420.3,1
+High systolic blood pressure,1996,2005.9,753.7,2
+Dietary risks,1996,1774.9,928.8,3
+High body-mass index,1996,1324.5,1152.9,4
+Child and maternal malnutrition,1996,964.2,715.7,5
+High fasting plasma glucose,1996,949.2,899.5,6
+High LDL cholesterol,1996,925.3,346.9,7
+Air pollution,1996,540.7,342.6,8
+Occupational risks,1996,382.8,457.7,9
+Impaired kidney function,1996,330.8,200.9,10
+Alcohol use,1996,326.1,440.5,11
+Low physical activity,1996,277.0,130.4,12
+Drug use,1996,248.9,335.2,13
+Unsafe sex,1996,167.5,115.7,14
+Low bone mineral density,1996,102.4,117.0,15
+Childhood maltreatment,1996,92.2,94.1,16
+Intimate partner violence,1996,87.6,79.0,17
+Other environmental risks,1996,77.8,42.8,18
+"Unsafe water, sanitation, and handwashing",1996,7.6,6.4,19
+Tobacco,1997,2505.3,1420.3,1
+High systolic blood pressure,1997,1904.0,753.7,2
+Dietary risks,1997,1705.1,928.8,3
+High body-mass index,1997,1313.7,1152.9,4
+High fasting plasma glucose,1997,944.2,899.5,5
+Child and maternal malnutrition,1997,937.2,715.7,6
+High LDL cholesterol,1997,870.0,346.9,7
+Air pollution,1997,528.3,342.6,8
+Occupational risks,1997,387.1,457.7,9
+Alcohol use,1997,337.1,440.5,10
+Impaired kidney function,1997,317.7,200.9,11
+Low physical activity,1997,264.9,130.4,12
+Drug use,1997,253.5,335.2,13
+Unsafe sex,1997,159.8,115.7,14
+Low bone mineral density,1997,102.9,117.0,15
+Childhood maltreatment,1997,92.5,94.1,16
+Intimate partner violence,1997,85.9,79.0,17
+Other environmental risks,1997,75.5,42.8,18
+"Unsafe water, sanitation, and handwashing",1997,7.5,6.4,19
+Tobacco,1998,2428.4,1420.3,1
+High systolic blood pressure,1998,1823.3,753.7,2
+Dietary risks,1998,1656.4,928.8,3
+High body-mass index,1998,1314.2,1152.9,4
+High fasting plasma glucose,1998,949.0,899.5,5
+Child and maternal malnutrition,1998,912.5,715.7,6
+High LDL cholesterol,1998,828.5,346.9,7
+Air pollution,1998,518.9,342.6,8
+Occupational risks,1998,393.4,457.7,9
+Alcohol use,1998,349.1,440.5,10
+Impaired kidney function,1998,308.1,200.9,11
+Drug use,1998,258.8,335.2,12
+Low physical activity,1998,255.9,130.4,13
+Unsafe sex,1998,149.6,115.7,14
+Low bone mineral density,1998,103.3,117.0,15
+Childhood maltreatment,1998,92.9,94.1,16
+Intimate partner violence,1998,84.0,79.0,17
+Other environmental risks,1998,74.0,42.8,18
+"Unsafe water, sanitation, and handwashing",1998,7.3,6.4,19
+Tobacco,1999,2339.9,1420.3,1
+High systolic blood pressure,1999,1719.0,753.7,2
+Dietary risks,1999,1584.3,928.8,3
+High body-mass index,1999,1302.1,1152.9,4
+High fasting plasma glucose,1999,942.7,899.5,5
+Child and maternal malnutrition,1999,912.1,715.7,6
+High LDL cholesterol,1999,778.5,346.9,7
+Air pollution,1999,505.1,342.6,8
+Occupational risks,1999,399.7,457.7,9
+Alcohol use,1999,362.3,440.5,10
+Impaired kidney function,1999,295.0,200.9,11
+Drug use,1999,262.2,335.2,12
+Low physical activity,1999,243.7,130.4,13
+Unsafe sex,1999,143.7,115.7,14
+Low bone mineral density,1999,104.2,117.0,15
+Childhood maltreatment,1999,93.4,94.1,16
+Intimate partner violence,1999,83.1,79.0,17
+Other environmental risks,1999,71.6,42.8,18
+"Unsafe water, sanitation, and handwashing",1999,7.2,6.4,19
+Tobacco,2000,2249.3,1420.3,1
+High systolic blood pressure,2000,1610.0,753.7,2
+Dietary risks,2000,1503.7,928.8,3
+High body-mass index,2000,1280.8,1152.9,4
+High fasting plasma glucose,2000,923.7,899.5,5
+Child and maternal malnutrition,2000,896.8,715.7,6
+High LDL cholesterol,2000,729.5,346.9,7
+Air pollution,2000,485.4,342.6,8
+Occupational risks,2000,405.8,457.7,9
+Alcohol use,2000,375.0,440.5,10
+Impaired kidney function,2000,281.4,200.9,11
+Drug use,2000,263.9,335.2,12
+Low physical activity,2000,230.4,130.4,13
+Unsafe sex,2000,140.2,115.7,14
+Low bone mineral density,2000,105.0,117.0,15
+Childhood maltreatment,2000,93.9,94.1,16
+Intimate partner violence,2000,82.9,79.0,17
+Other environmental risks,2000,68.9,42.8,18
+"Unsafe water, sanitation, and handwashing",2000,6.9,6.4,19
+Tobacco,2001,2172.7,1420.3,1
+High systolic blood pressure,2001,1513.9,753.7,2
+Dietary risks,2001,1433.7,928.8,3
+High body-mass index,2001,1263.2,1152.9,4
+High fasting plasma glucose,2001,902.9,899.5,5
+Child and maternal malnutrition,2001,885.3,715.7,6
+High LDL cholesterol,2001,686.4,346.9,7
+Air pollution,2001,467.4,342.6,8
+Occupational risks,2001,413.1,457.7,9
+Alcohol use,2001,390.8,440.5,10
+Impaired kidney function,2001,269.9,200.9,11
+Drug use,2001,267.7,335.2,12
+Low physical activity,2001,219.3,130.4,13
+Unsafe sex,2001,141.5,115.7,14
+Low bone mineral density,2001,106.4,117.0,15
+Childhood maltreatment,2001,94.2,94.1,16
+Intimate partner violence,2001,82.9,79.0,17
+Other environmental risks,2001,66.7,42.8,18
+"Unsafe water, sanitation, and handwashing",2001,6.6,6.4,19
+Tobacco,2002,2121.5,1420.3,1
+High systolic blood pressure,2002,1441.1,753.7,2
+Dietary risks,2002,1389.5,928.8,3
+High body-mass index,2002,1259.1,1152.9,4
+High fasting plasma glucose,2002,892.2,899.5,5
+Child and maternal malnutrition,2002,878.4,715.7,6
+High LDL cholesterol,2002,657.7,346.9,7
+Air pollution,2002,459.2,342.6,8
+Occupational risks,2002,425.3,457.7,9
+Alcohol use,2002,404.8,440.5,10
+Drug use,2002,269.7,335.2,11
+Impaired kidney function,2002,261.7,200.9,12
+Low physical activity,2002,212.4,130.4,13
+Unsafe sex,2002,137.9,115.7,14
+Low bone mineral density,2002,108.0,117.0,15
+Childhood maltreatment,2002,93.4,94.1,16
+Intimate partner violence,2002,81.8,79.0,17
+Other environmental risks,2002,65.0,42.8,18
+"Unsafe water, sanitation, and handwashing",2002,6.6,6.4,19
+Tobacco,2003,2073.0,1420.3,1
+High systolic blood pressure,2003,1362.4,753.7,2
+Dietary risks,2003,1343.6,928.8,3
+High body-mass index,2003,1254.1,1152.9,4
+Child and maternal malnutrition,2003,894.9,715.7,5
+High fasting plasma glucose,2003,879.1,899.5,6
+High LDL cholesterol,2003,628.3,346.9,7
+Air pollution,2003,452.1,342.6,8
+Occupational risks,2003,438.4,457.7,9
+Alcohol use,2003,418.9,440.5,10
+Drug use,2003,273.4,335.2,11
+Impaired kidney function,2003,253.6,200.9,12
+Low physical activity,2003,204.9,130.4,13
+Unsafe sex,2003,142.1,115.7,14
+Low bone mineral density,2003,109.9,117.0,15
+Childhood maltreatment,2003,92.3,94.1,16
+Intimate partner violence,2003,81.4,79.0,17
+Other environmental risks,2003,63.3,42.8,18
+"Unsafe water, sanitation, and handwashing",2003,6.7,6.4,19
+Tobacco,2004,1973.0,1420.3,1
+Dietary risks,2004,1245.3,928.8,2
+High systolic blood pressure,2004,1230.2,753.7,3
+High body-mass index,2004,1217.2,1152.9,4
+Child and maternal malnutrition,2004,864.8,715.7,5
+High fasting plasma glucose,2004,841.3,899.5,6
+High LDL cholesterol,2004,570.0,346.9,7
+Occupational risks,2004,444.2,457.7,8
+Air pollution,2004,428.6,342.6,9
+Alcohol use,2004,426.8,440.5,10
+Drug use,2004,274.6,335.2,11
+Impaired kidney function,2004,237.1,200.9,12
+Low physical activity,2004,188.5,130.4,13
+Unsafe sex,2004,136.0,115.7,14
+Low bone mineral density,2004,110.4,117.0,15
+Childhood maltreatment,2004,91.2,94.1,16
+Intimate partner violence,2004,79.9,79.0,17
+Other environmental risks,2004,59.9,42.8,18
+"Unsafe water, sanitation, and handwashing",2004,6.6,6.4,19
+Tobacco,2005,1918.5,1420.3,1
+High body-mass index,2005,1202.5,1152.9,2
+Dietary risks,2005,1190.0,928.8,3
+High systolic blood pressure,2005,1143.0,753.7,4
+Child and maternal malnutrition,2005,846.3,715.7,5
+High fasting plasma glucose,2005,822.6,899.5,6
+High LDL cholesterol,2005,535.4,346.9,7
+Occupational risks,2005,450.5,457.7,8
+Alcohol use,2005,438.8,440.5,9
+Air pollution,2005,417.6,342.6,10
+Drug use,2005,277.9,335.2,11
+Impaired kidney function,2005,229.0,200.9,12
+Low physical activity,2005,178.7,130.4,13
+Unsafe sex,2005,132.5,115.7,14
+Low bone mineral density,2005,111.2,117.0,15
+Childhood maltreatment,2005,90.8,94.1,16
+Intimate partner violence,2005,79.1,79.0,17
+Other environmental risks,2005,57.8,42.8,18
+"Unsafe water, sanitation, and handwashing",2005,6.7,6.4,19
+Tobacco,2006,1863.1,1420.3,1
+High body-mass index,2006,1185.3,1152.9,2
+Dietary risks,2006,1137.4,928.8,3
+High systolic blood pressure,2006,1063.5,753.7,4
+Child and maternal malnutrition,2006,840.5,715.7,5
+High fasting plasma glucose,2006,808.8,899.5,6
+High LDL cholesterol,2006,499.8,346.9,7
+Occupational risks,2006,452.9,457.7,8
+Alcohol use,2006,446.1,440.5,9
+Air pollution,2006,408.1,342.6,10
+Drug use,2006,283.5,335.2,11
+Impaired kidney function,2006,222.0,200.9,12
+Low physical activity,2006,169.5,130.4,13
+Unsafe sex,2006,130.6,115.7,14
+Low bone mineral density,2006,111.9,117.0,15
+Childhood maltreatment,2006,91.3,94.1,16
+Intimate partner violence,2006,78.9,79.0,17
+Other environmental risks,2006,56.0,42.8,18
+"Unsafe water, sanitation, and handwashing",2006,6.9,6.4,19
+Tobacco,2007,1801.1,1420.3,1
+High body-mass index,2007,1167.2,1152.9,2
+Dietary risks,2007,1086.2,928.8,3
+High systolic blood pressure,2007,991.7,753.7,4
+Child and maternal malnutrition,2007,823.9,715.7,5
+High fasting plasma glucose,2007,799.9,899.5,6
+High LDL cholesterol,2007,467.1,346.9,7
+Occupational risks,2007,452.8,457.7,8
+Alcohol use,2007,444.6,440.5,9
+Air pollution,2007,399.3,342.6,10
+Drug use,2007,290.9,335.2,11
+Impaired kidney function,2007,216.3,200.9,12
+Low physical activity,2007,160.9,130.4,13
+Unsafe sex,2007,130.3,115.7,14
+Low bone mineral density,2007,112.2,117.0,15
+Childhood maltreatment,2007,92.2,94.1,16
+Intimate partner violence,2007,79.3,79.0,17
+Other environmental risks,2007,54.1,42.8,18
+"Unsafe water, sanitation, and handwashing",2007,6.9,6.4,19
+Tobacco,2008,1761.1,1420.3,1
+High body-mass index,2008,1163.4,1152.9,2
+Dietary risks,2008,1059.5,928.8,3
+High systolic blood pressure,2008,943.8,753.7,4
+Child and maternal malnutrition,2008,808.9,715.7,5
+High fasting plasma glucose,2008,802.7,899.5,6
+Occupational risks,2008,454.5,457.7,7
+Alcohol use,2008,447.6,440.5,8
+High LDL cholesterol,2008,447.2,346.9,9
+Air pollution,2008,396.8,342.6,10
+Drug use,2008,303.6,335.2,11
+Impaired kidney function,2008,213.6,200.9,12
+Low physical activity,2008,156.0,130.4,13
+Unsafe sex,2008,131.5,115.7,14
+Low bone mineral density,2008,113.1,117.0,15
+Childhood maltreatment,2008,93.3,94.1,16
+Intimate partner violence,2008,79.6,79.0,17
+Other environmental risks,2008,52.9,42.8,18
+"Unsafe water, sanitation, and handwashing",2008,7.0,6.4,19
+Tobacco,2009,1683.4,1420.3,1
+High body-mass index,2009,1136.3,1152.9,2
+Dietary risks,2009,999.0,928.8,3
+High systolic blood pressure,2009,869.0,753.7,4
+Child and maternal malnutrition,2009,802.0,715.7,5
+High fasting plasma glucose,2009,788.3,899.5,6
+Occupational risks,2009,450.0,457.7,7
+Alcohol use,2009,441.0,440.5,8
+High LDL cholesterol,2009,410.5,346.9,9
+Air pollution,2009,382.8,342.6,10
+Drug use,2009,309.1,335.2,11
+Impaired kidney function,2009,205.1,200.9,12
+Low physical activity,2009,145.5,130.4,13
+Unsafe sex,2009,127.2,115.7,14
+Low bone mineral density,2009,112.8,117.0,15
+Childhood maltreatment,2009,94.0,94.1,16
+Intimate partner violence,2009,79.8,79.0,17
+Other environmental risks,2009,50.4,42.8,18
+"Unsafe water, sanitation, and handwashing",2009,6.8,6.4,19
+Tobacco,2010,1647.5,1420.3,1
+High body-mass index,2010,1132.1,1152.9,2
+Dietary risks,2010,975.1,928.8,3
+High systolic blood pressure,2010,829.8,753.7,4
+High fasting plasma glucose,2010,788.9,899.5,5
+Child and maternal malnutrition,2010,780.8,715.7,6
+Occupational risks,2010,451.5,457.7,7
+Alcohol use,2010,442.3,440.5,8
+High LDL cholesterol,2010,392.8,346.9,9
+Air pollution,2010,377.8,342.6,10
+Drug use,2010,315.6,335.2,11
+Impaired kidney function,2010,202.1,200.9,12
+Low physical activity,2010,140.7,130.4,13
+Unsafe sex,2010,125.4,115.7,14
+Low bone mineral density,2010,113.2,117.0,15
+Childhood maltreatment,2010,94.5,94.1,16
+Intimate partner violence,2010,79.6,79.0,17
+Other environmental risks,2010,49.2,42.8,18
+"Unsafe water, sanitation, and handwashing",2010,6.7,6.4,19
+Tobacco,2011,1594.2,1420.3,1
+High body-mass index,2011,1116.8,1152.9,2
+Dietary risks,2011,936.5,928.8,3
+High systolic blood pressure,2011,783.5,753.7,4
+High fasting plasma glucose,2011,782.9,899.5,5
+Child and maternal malnutrition,2011,764.2,715.7,6
+Occupational risks,2011,449.9,457.7,7
+Alcohol use,2011,437.4,440.5,8
+Air pollution,2011,377.5,342.6,9
+High LDL cholesterol,2011,369.5,346.9,10
+Drug use,2011,315.5,335.2,11
+Impaired kidney function,2011,197.2,200.9,12
+Low physical activity,2011,133.9,130.4,13
+Unsafe sex,2011,118.7,115.7,14
+Low bone mineral density,2011,113.1,117.0,15
+Childhood maltreatment,2011,94.5,94.1,16
+Intimate partner violence,2011,78.9,79.0,17
+Other environmental risks,2011,47.3,42.8,18
+"Unsafe water, sanitation, and handwashing",2011,6.5,6.4,19
+Tobacco,2012,1555.4,1420.3,1
+High body-mass index,2012,1113.6,1152.9,2
+Dietary risks,2012,920.2,928.8,3
+High fasting plasma glucose,2012,791.9,899.5,4
+High systolic blood pressure,2012,760.8,753.7,5
+Child and maternal malnutrition,2012,743.6,715.7,6
+Occupational risks,2012,451.0,457.7,7
+Alcohol use,2012,431.5,440.5,8
+High LDL cholesterol,2012,358.6,346.9,9
+Air pollution,2012,358.2,342.6,10
+Drug use,2012,316.7,335.2,11
+Impaired kidney function,2012,196.2,200.9,12
+Low physical activity,2012,131.1,130.4,13
+Unsafe sex,2012,115.8,115.7,14
+Low bone mineral density,2012,113.6,117.0,15
+Childhood maltreatment,2012,94.5,94.1,16
+Intimate partner violence,2012,78.7,79.0,17
+Other environmental risks,2012,46.2,42.8,18
+"Unsafe water, sanitation, and handwashing",2012,6.4,6.4,19
+Tobacco,2013,1522.9,1420.3,1
+High body-mass index,2013,1115.8,1152.9,2
+Dietary risks,2013,912.4,928.8,3
+High fasting plasma glucose,2013,806.4,899.5,4
+High systolic blood pressure,2013,747.6,753.7,5
+Child and maternal malnutrition,2013,728.7,715.7,6
+Occupational risks,2013,452.3,457.7,7
+Alcohol use,2013,433.1,440.5,8
+Air pollution,2013,354.7,342.6,9
+High LDL cholesterol,2013,351.4,346.9,10
+Drug use,2013,322.6,335.2,11
+Impaired kidney function,2013,196.5,200.9,12
+Low physical activity,2013,129.4,130.4,13
+Unsafe sex,2013,115.1,115.7,14
+Low bone mineral density,2013,114.4,117.0,15
+Childhood maltreatment,2013,94.7,94.1,16
+Intimate partner violence,2013,78.6,79.0,17
+Other environmental risks,2013,45.2,42.8,18
+"Unsafe water, sanitation, and handwashing",2013,6.3,6.4,19
+Tobacco,2014,1483.9,1420.3,1
+High body-mass index,2014,1116.7,1152.9,2
+Dietary risks,2014,901.3,928.8,3
+High fasting plasma glucose,2014,820.3,899.5,4
+High systolic blood pressure,2014,736.0,753.7,5
+Child and maternal malnutrition,2014,723.1,715.7,6
+Occupational risks,2014,452.2,457.7,7
+Alcohol use,2014,434.9,440.5,8
+High LDL cholesterol,2014,342.7,346.9,9
+Air pollution,2014,339.0,342.6,10
+Drug use,2014,329.5,335.2,11
+Impaired kidney function,2014,196.3,200.9,12
+Low physical activity,2014,127.0,130.4,13
+Low bone mineral density,2014,115.2,117.0,14
+Unsafe sex,2014,112.0,115.7,15
+Childhood maltreatment,2014,94.8,94.1,16
+Intimate partner violence,2014,78.5,79.0,17
+Other environmental risks,2014,44.1,42.8,18
+"Unsafe water, sanitation, and handwashing",2014,6.3,6.4,19
+Tobacco,2015,1463.3,1420.3,1
+High body-mass index,2015,1128.5,1152.9,2
+Dietary risks,2015,908.7,928.8,3
+High fasting plasma glucose,2015,846.1,899.5,4
+High systolic blood pressure,2015,740.8,753.7,5
+Child and maternal malnutrition,2015,723.2,715.7,6
+Occupational risks,2015,454.2,457.7,7
+Alcohol use,2015,435.3,440.5,8
+High LDL cholesterol,2015,343.4,346.9,9
+Air pollution,2015,342.2,342.6,10
+Drug use,2015,334.0,335.2,11
+Impaired kidney function,2015,199.0,200.9,12
+Low physical activity,2015,127.9,130.4,13
+Low bone mineral density,2015,116.3,117.0,14
+Unsafe sex,2015,115.7,115.7,15
+Childhood maltreatment,2015,94.6,94.1,16
+Intimate partner violence,2015,79.1,79.0,17
+Other environmental risks,2015,43.6,42.8,18
+"Unsafe water, sanitation, and handwashing",2015,6.3,6.4,19
+Tobacco,2016,1446.9,1420.3,1
+High body-mass index,2016,1143.0,1152.9,2
+Dietary risks,2016,917.3,928.8,3
+High fasting plasma glucose,2016,872.6,899.5,4
+High systolic blood pressure,2016,745.8,753.7,5
+Child and maternal malnutrition,2016,716.0,715.7,6
+Occupational risks,2016,456.8,457.7,7
+Alcohol use,2016,440.9,440.5,8
+High LDL cholesterol,2016,343.7,346.9,9
+Air pollution,2016,341.5,342.6,10
+Drug use,2016,337.1,335.2,11
+Impaired kidney function,2016,200.4,200.9,12
+Low physical activity,2016,128.7,130.4,13
+Low bone mineral density,2016,117.0,117.0,14
+Unsafe sex,2016,114.5,115.7,15
+Childhood maltreatment,2016,94.5,94.1,16
+Intimate partner violence,2016,78.8,79.0,17
+Other environmental risks,2016,43.3,42.8,18
+"Unsafe water, sanitation, and handwashing",2016,6.4,6.4,19
+Tobacco,2017,1420.3,1420.3,1
+High body-mass index,2017,1152.9,1152.9,2
+Dietary risks,2017,928.8,928.8,3
+High fasting plasma glucose,2017,899.5,899.5,4
+High systolic blood pressure,2017,753.7,753.7,5
+Child and maternal malnutrition,2017,715.7,715.7,6
+Occupational risks,2017,457.7,457.7,7
+Alcohol use,2017,440.5,440.5,8
+High LDL cholesterol,2017,346.9,346.9,9
+Air pollution,2017,342.6,342.6,10
+Drug use,2017,335.2,335.2,11
+Impaired kidney function,2017,200.9,200.9,12
+Low physical activity,2017,130.4,130.4,13
+Low bone mineral density,2017,117.0,117.0,14
+Unsafe sex,2017,115.7,115.7,15
+Childhood maltreatment,2017,94.1,94.1,16
+Intimate partner violence,2017,79.0,79.0,17
+Other environmental risks,2017,42.8,42.8,18
+"Unsafe water, sanitation, and handwashing",2017,6.4,6.4,19
