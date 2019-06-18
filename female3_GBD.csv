@@ -1,0 +1,533 @@
+measure,location,sex,age,cause,name,metric,year,value,lastvalue
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,1990,1093.0,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,1990,3152.9,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,1990,221.8,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,1990,220.8,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,1990,1043.2,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,1990,2474.2,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,1990,1391.5,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,1990,104.2,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,1990,1228.6,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,1990,90.0,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,1990,8.6,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,1990,606.5,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,1990,88.3,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,1992,371.4,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,1991,196.1,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,1990,400.1,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,1991,385.3,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,1991,1177.6,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,1991,90.5,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,1992,1125.8,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,1992,91.0,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,1992,188.8,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,1990,204.2,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,1991,2090.0,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,1991,329.2,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,1991,383.0,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,1991,90.2,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,1990,90.0,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,1993,366.6,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,1993,1097.9,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,1993,91.5,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,1992,90.2,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,1994,178.0,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,1993,1987.7,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,1994,1016.3,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,1994,91.8,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,1994,347.8,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,1993,313.2,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,1993,382.1,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,1993,91.2,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,1992,2020.9,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,1992,318.5,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,1992,381.2,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,1990,2168.7,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,1990,341.2,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,1990,385.6,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,1993,186.6,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,1994,90.6,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,1994,1876.9,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,1994,294.8,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,1994,378.3,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,1991,8.4,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,1991,590.3,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,1991,86.5,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,1991,1050.9,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,1991,3035.1,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,1991,240.2,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,1991,223.8,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,1992,8.0,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,1992,576.6,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,1992,84.7,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,1991,1025.0,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,1991,2391.9,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,1991,1376.2,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,1991,103.5,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,1995,343.2,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,1995,984.9,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,1995,92.0,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,1992,994.3,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,1992,2932.8,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,1992,258.0,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,1992,227.7,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,1992,1008.4,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,1992,2311.9,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,1992,1364.5,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,1992,102.9,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,1996,167.5,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,1996,925.3,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,1996,92.2,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,1995,176.8,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,1996,330.8,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,1993,1003.1,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,1993,2275.9,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,1993,1368.7,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,1993,102.8,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,1995,1851.1,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,1995,289.9,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,1995,380.0,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,1995,89.6,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,1997,317.7,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,1997,870.0,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,1997,92.5,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,1993,7.9,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,1993,576.6,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,1993,84.0,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,1993,977.3,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,1993,2876.9,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,1993,277.1,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,1993,233.2,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,1994,7.7,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,1994,554.4,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,1994,80.8,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,1997,159.8,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,1994,963.1,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,1994,2743.6,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,1994,294.3,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,1994,236.5,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,1994,967.3,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,1994,2145.5,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,1994,1334.4,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,1994,102.0,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,1998,308.1,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,1998,828.5,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,1998,92.9,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,1998,149.6,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,1996,1774.9,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,1996,277.0,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,1996,382.8,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,1996,87.6,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,1995,7.7,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,1995,554.0,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,1995,80.0,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,1995,956.4,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,1995,2697.6,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,1995,312.7,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,1995,243.1,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,1995,964.7,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,1995,2105.7,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,1995,1341.6,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,1995,102.4,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,1997,1705.1,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,1997,264.9,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,1997,387.1,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,1997,85.9,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,1999,295.0,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,1999,778.5,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,1999,93.4,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,1999,143.7,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,1996,7.6,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,1996,540.7,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,1996,77.8,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,1996,964.2,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,1996,2599.4,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,1996,326.1,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,1996,248.9,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,1996,949.2,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,1996,2005.9,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,1996,1324.5,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,1996,102.4,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,1998,1656.4,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,1998,255.9,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,1998,393.4,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,1998,84.0,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,1999,243.7,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,1999,399.7,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,1999,83.1,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,1997,944.2,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,1997,1904.0,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,1997,1313.7,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,1997,102.9,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,1997,7.5,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,1997,528.3,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,1997,75.5,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,1997,937.2,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,1997,2505.3,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,1997,337.1,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,1997,253.5,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,2000,729.5,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,2000,93.9,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,2000,281.4,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,1999,1584.3,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,2000,140.2,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,2000,1503.7,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,2000,230.4,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,2000,405.8,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,2000,82.9,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,1998,7.3,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,1998,518.9,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,1998,74.0,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,2001,269.9,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,2001,686.4,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,2001,94.2,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,2002,137.9,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,1998,912.5,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,1998,2428.4,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,1998,349.1,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,1998,258.8,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,1998,949.0,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,1998,1823.3,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,1998,1314.2,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,1998,103.3,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,2002,657.7,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,2002,93.4,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,2002,261.7,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,2001,1433.7,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,2001,141.5,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,2001,219.3,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,2001,413.1,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,2001,82.9,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,1999,942.7,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,1999,1719.0,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,1999,1302.1,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,1999,104.2,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,1999,7.2,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,1999,505.1,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,1999,71.6,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,1999,912.1,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,1999,2339.9,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,1999,362.3,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,1999,262.2,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,2002,1389.5,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,2002,212.4,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,2002,425.3,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,2002,81.8,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,2003,253.6,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,2003,628.3,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,2003,92.3,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,2002,878.4,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,2002,2121.5,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,2002,404.8,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,2002,269.7,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,2002,892.2,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,2002,1441.1,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,2002,1259.1,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,2002,108.0,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,2003,142.1,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,2004,570.0,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,2004,91.2,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,2004,237.1,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,2004,136.0,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,2002,6.6,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,2002,459.2,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,2002,65.0,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,2003,204.9,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,2003,438.4,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,2003,81.4,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,2000,896.8,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,2000,2249.3,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,2000,375.0,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,2000,263.9,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,2000,923.7,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,2000,1610.0,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,2000,1280.8,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,2000,105.0,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,2003,1343.6,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,2000,6.9,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,2000,485.4,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,2000,68.9,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,2001,902.9,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,2001,1513.9,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,2001,1263.2,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,2001,106.4,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,2004,1245.3,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,2004,188.5,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,2004,444.2,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,2001,6.6,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,2001,467.4,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,2001,66.7,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,2001,885.3,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,2001,2172.7,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,2001,390.8,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,2001,267.7,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,2004,79.9,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,2003,879.1,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,2003,1362.4,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,2003,1254.1,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,2003,109.9,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,2003,6.7,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,2003,452.1,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,2003,63.3,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,2003,894.9,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,2003,2073.0,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,2003,418.9,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,2003,273.4,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,2005,229.0,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,2005,535.4,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,2005,90.8,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,2006,222.0,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,2006,499.8,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,2006,91.3,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,2007,216.3,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,2007,467.1,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,2007,92.2,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,2006,130.6,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,2007,130.3,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,2005,132.5,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,2005,1190.0,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,2005,178.7,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,2005,450.5,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,2005,79.1,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,2004,864.8,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,2004,1973.0,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,2004,426.8,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,2004,274.6,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,2004,841.3,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,2004,1230.2,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,2004,1217.2,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,2004,110.4,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,2004,6.6,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,2004,428.6,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,2004,59.9,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,2008,213.6,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,2008,447.2,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,2008,93.3,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,2006,1137.4,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,2006,169.5,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,2006,452.9,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,2006,78.9,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,2009,205.1,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,2009,410.5,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,2009,94.0,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,2008,131.5,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,2006,840.5,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,2006,1863.1,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,2006,446.1,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,2006,283.5,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,2006,808.8,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,2006,1063.5,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,2006,1185.3,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,2006,111.9,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,2005,822.6,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,2005,1143.0,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,2005,1202.5,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,2005,111.2,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,2006,6.9,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,2006,408.1,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,2006,56.0,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,2005,6.7,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,2005,417.6,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,2005,57.8,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,2005,846.3,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,2005,1918.5,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,2005,438.8,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,2005,277.9,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,2009,127.2,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,2007,799.9,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,2007,991.7,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,2007,1167.2,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,2007,112.2,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,2007,6.9,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,2007,399.3,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,2007,54.1,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,2007,823.9,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,2007,1801.1,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,2007,444.6,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,2007,290.9,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,2007,1086.2,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,2007,160.9,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,2007,452.8,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,2007,79.3,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,2008,1059.5,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,2008,156.0,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,2008,454.5,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,2009,999.0,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,2009,145.5,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,2009,450.0,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,2009,79.8,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,2008,79.6,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,2008,808.9,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,2008,1761.1,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,2008,447.6,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,2008,303.6,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,2008,802.7,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,2008,943.8,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,2008,1163.4,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,2008,113.1,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,2008,7.0,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,2008,396.8,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,2008,52.9,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,2011,197.2,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,2011,369.5,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,2011,94.5,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,2009,6.8,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,2009,382.8,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,2009,50.4,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,2009,802.0,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,2009,1683.4,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,2009,441.0,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,2009,309.1,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,2009,788.3,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,2009,869.0,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,2009,1136.3,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,2009,112.8,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,2010,125.4,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,2010,202.1,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,2010,392.8,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,2010,94.5,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,2011,118.7,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,2010,79.6,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,2012,358.6,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,2012,94.5,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,2012,196.2,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,2010,975.1,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,2010,140.7,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,2010,451.5,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,2012,115.8,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,2011,6.5,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,2011,377.5,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,2011,47.3,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,2011,764.2,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,2011,1594.2,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,2011,437.4,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,2011,315.5,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,2011,782.9,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,2011,783.5,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,2011,1116.8,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,2011,113.1,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,2011,133.9,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,2011,449.9,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,2011,78.9,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,2010,6.7,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,2010,377.8,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,2010,49.2,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,2011,936.5,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,2010,780.8,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,2010,1647.5,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,2010,442.3,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,2010,315.6,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,2010,788.9,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,2010,829.8,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,2010,1132.1,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,2010,113.2,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,2012,78.7,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,2012,920.2,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,2012,131.1,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,2012,451.0,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,2013,115.1,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,2013,912.4,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,2012,743.6,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,2012,1555.4,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,2012,431.5,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,2012,316.7,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,2012,791.9,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,2012,760.8,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,2012,1113.6,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,2012,113.6,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,2014,196.3,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,2012,6.4,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,2012,358.2,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,2012,46.2,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,2013,196.5,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,2013,351.4,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,2013,94.7,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,2013,129.4,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,2013,452.3,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,2013,78.6,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,2015,115.7,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,2015,199.0,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,2015,343.4,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,2015,94.6,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,2014,342.7,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,2014,94.8,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,2014,112.0,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,2014,901.3,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,2014,127.0,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,2014,452.2,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,2015,908.7,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,2013,6.3,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,2013,354.7,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,2013,45.2,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,2013,728.7,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,2013,1522.9,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,2013,433.1,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,2013,322.6,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,2013,806.4,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,2013,747.6,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,2013,1115.8,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,2013,114.4,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,2014,78.5,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,2015,127.9,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,2015,454.2,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,2015,79.1,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,2014,723.1,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,2014,1483.9,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,2014,434.9,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,2014,329.5,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,2014,820.3,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,2014,736.0,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,2014,1116.7,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,2014,115.2,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,2014,6.3,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,2014,339.0,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,2014,44.1,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,2016,114.5,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,2017,200.9,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,2017,346.9,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,2017,94.1,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,2015,6.3,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,2015,342.2,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,2015,43.6,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,2015,723.2,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,2015,1463.3,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,2015,435.3,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,2015,334.0,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High LDL cholesterol,Rate,2016,343.7,346.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Childhood maltreatment,Rate,2016,94.5,94.1
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Impaired kidney function,Rate,2016,200.4,200.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Unsafe sex,Rate,2017,115.7,115.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,2015,846.1,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,2015,740.8,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,2015,1128.5,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,2015,116.3,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,2016,716.0,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,2016,1446.9,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,2016,440.9,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,2016,337.1,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,2016,872.6,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,2016,745.8,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,2016,1143.0,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,2016,117.0,117.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,2016,917.3,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,2016,128.7,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,2016,456.8,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,2016,6.4,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,2016,341.5,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,2016,43.3,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,2016,78.8,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,"Unsafe water, sanitation, and handwashing",Rate,2017,6.4,6.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Air pollution,Rate,2017,342.6,342.6
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Other environmental risks,Rate,2017,42.8,42.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Child and maternal malnutrition,Rate,2017,715.7,715.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Tobacco,Rate,2017,1420.3,1420.3
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Alcohol use,Rate,2017,440.5,440.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Drug use,Rate,2017,335.2,335.2
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low physical activity,Rate,2017,130.4,130.4
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Occupational risks,Rate,2017,457.7,457.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Intimate partner violence,Rate,2017,79.0,79.0
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Dietary risks,Rate,2017,928.8,928.8
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High fasting plasma glucose,Rate,2017,899.5,899.5
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High systolic blood pressure,Rate,2017,753.7,753.7
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,High body-mass index,Rate,2017,1152.9,1152.9
+DALYs (Disability-Adjusted Life Years),England,Female,Age-standardized,All causes,Low bone mineral density,Rate,2017,117.0,117.0
