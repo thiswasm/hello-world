@@ -1,4 +1,4 @@
-sex,cause,rei,year,val,final_year,rank
+sex,cause,name,year,value,lastValue,rank
 Both,All causes,Tobacco,1990,4387.05316,1773.63312,1
 Both,All causes,High systolic blood pressure,1990,3469.21384,1079.722422,2
 Both,All causes,Dietary risks,1990,3285.249791,1338.474071,3
