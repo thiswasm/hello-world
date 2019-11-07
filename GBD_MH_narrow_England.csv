@@ -1,0 +1,617 @@
+"location","year","measure","sex","age","cause","metric","val","final_year","rank"
+"England",1990,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",5250.93798828125,2139.59375,1
+"England",1991,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",5082.2294921875,2139.59375,1
+"England",1992,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",4896.4697265625,2139.59375,1
+"England",1993,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",4829.45947265625,2139.59375,1
+"England",1994,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",4574.95751953125,2139.59375,1
+"England",1995,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",4510.748046875,2139.59375,1
+"England",1996,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",4338.6953125,2139.59375,1
+"England",1997,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",4152.60546875,2139.59375,1
+"England",1998,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",4031.56567382812,2139.59375,1
+"England",1999,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",3870.43432617188,2139.59375,1
+"England",2000,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",3685.57763671875,2139.59375,1
+"England",2001,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",3532.49243164062,2139.59375,1
+"England",2002,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",3434.17529296875,2139.59375,1
+"England",2003,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",3317.59008789062,2139.59375,1
+"England",2004,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",3081.5302734375,2139.59375,1
+"England",2005,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",2926.607421875,2139.59375,1
+"England",2006,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",2825.05541992188,2139.59375,1
+"England",2007,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",2684.88305664062,2139.59375,1
+"England",2008,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",2605.9560546875,2139.59375,1
+"England",2009,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",2473.07275390625,2139.59375,1
+"England",2010,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",2373.68579101562,2139.59375,1
+"England",2011,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",2252.88696289062,2139.59375,1
+"England",2012,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",2178.73217773438,2139.59375,1
+"England",2013,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",2169.62036132812,2139.59375,1
+"England",2014,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",2127.93823242188,2139.59375,1
+"England",2015,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",2132.72631835938,2139.59375,1
+"England",2016,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",2130.20678710938,2139.59375,1
+"England",2017,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Cardiovascular diseases","Rate",2139.59375,2139.59375,1
+"England",1990,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1349.94494628906,1144.78454589844,1
+"England",1991,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1342.9404296875,1144.78454589844,1
+"England",1992,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1329.68103027344,1144.78454589844,1
+"England",1993,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1332.69348144531,1144.78454589844,1
+"England",1994,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1307.14404296875,1144.78454589844,1
+"England",1995,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1310.01672363281,1144.78454589844,1
+"England",1996,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1292.63220214844,1144.78454589844,1
+"England",1997,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1272.53625488281,1144.78454589844,1
+"England",1998,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1255.02014160156,1144.78454589844,1
+"England",1999,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1240.60681152344,1144.78454589844,1
+"England",2000,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1222.31677246094,1144.78454589844,1
+"England",2001,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1217.57727050781,1144.78454589844,1
+"England",2002,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1228.99084472656,1144.78454589844,1
+"England",2003,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1242.04553222656,1144.78454589844,1
+"England",2004,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1229.09509277344,1144.78454589844,1
+"England",2005,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1231.01745605469,1144.78454589844,1
+"England",2006,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1240.41247558594,1144.78454589844,1
+"England",2007,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1248.67895507812,1144.78454589844,1
+"England",2008,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1268.4892578125,1144.78454589844,1
+"England",2009,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1268.58386230469,1144.78454589844,1
+"England",2010,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1268.39587402344,1144.78454589844,1
+"England",2011,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1256.76916503906,1144.78454589844,1
+"England",2012,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1243.44848632812,1144.78454589844,1
+"England",2013,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1238.18835449219,1144.78454589844,1
+"England",2014,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1213.654296875,1144.78454589844,1
+"England",2015,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1200.98815917969,1144.78454589844,1
+"England",2016,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1179.51574707031,1144.78454589844,1
+"England",2017,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Chronic respiratory diseases","Rate",1144.78454589844,1144.78454589844,1
+"England",1990,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",508.782409667969,577.778259277344,1
+"England",1991,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",501.621795654297,577.778259277344,1
+"England",1992,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",493.103210449219,577.778259277344,1
+"England",1993,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",492.536407470703,577.778259277344,1
+"England",1994,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",484.329681396484,577.778259277344,1
+"England",1995,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",485.697723388672,577.778259277344,1
+"England",1996,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",486.217437744141,577.778259277344,1
+"England",1997,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",491.722534179688,577.778259277344,1
+"England",1998,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",502.804168701172,577.778259277344,1
+"England",1999,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",511.520263671875,577.778259277344,1
+"England",2000,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",512.720764160156,577.778259277344,1
+"England",2001,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",511.544464111328,577.778259277344,1
+"England",2002,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",513.066833496094,577.778259277344,1
+"England",2003,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",513.454772949219,577.778259277344,1
+"England",2004,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",506.710388183594,577.778259277344,1
+"England",2005,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",505.242065429688,577.778259277344,1
+"England",2006,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",507.820922851562,577.778259277344,1
+"England",2007,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",508.604248046875,577.778259277344,1
+"England",2008,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",513.455749511719,577.778259277344,1
+"England",2009,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",514.505920410156,577.778259277344,1
+"England",2010,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",517.580261230469,577.778259277344,1
+"England",2011,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",519.166442871094,577.778259277344,1
+"England",2012,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",524.368469238281,577.778259277344,1
+"England",2013,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",534.447326660156,577.778259277344,1
+"England",2014,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",543.825012207031,577.778259277344,1
+"England",2015,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",556.235229492188,577.778259277344,1
+"England",2016,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",568.279602050781,577.778259277344,1
+"England",2017,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Diabetes and kidney diseases","Rate",577.778259277344,577.778259277344,1
+"England",1990,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",670.447265625,744.958557128906,1
+"England",1991,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",677.138000488281,744.958557128906,1
+"England",1992,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",682.506408691406,744.958557128906,1
+"England",1993,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",692.396057128906,744.958557128906,1
+"England",1994,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",698.684326171875,744.958557128906,1
+"England",1995,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",712.98291015625,744.958557128906,1
+"England",1996,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",724.307800292969,744.958557128906,1
+"England",1997,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",735.887634277344,744.958557128906,1
+"England",1998,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",747.8408203125,744.958557128906,1
+"England",1999,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",756.747253417969,744.958557128906,1
+"England",2000,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",761.293151855469,744.958557128906,1
+"England",2001,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",765.080444335938,744.958557128906,1
+"England",2002,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",772.062255859375,744.958557128906,1
+"England",2003,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",779.540771484375,744.958557128906,1
+"England",2004,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",776.167602539062,744.958557128906,1
+"England",2005,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",776.941223144531,744.958557128906,1
+"England",2006,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",782.180603027344,744.958557128906,1
+"England",2007,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",779.001708984375,744.958557128906,1
+"England",2008,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",779.898498535156,744.958557128906,1
+"England",2009,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",773.54736328125,744.958557128906,1
+"England",2010,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",769.598754882812,744.958557128906,1
+"England",2011,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",761.014953613281,744.958557128906,1
+"England",2012,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",753.149047851562,744.958557128906,1
+"England",2013,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",753.633972167969,744.958557128906,1
+"England",2014,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",746.008728027344,744.958557128906,1
+"England",2015,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",746.111206054688,744.958557128906,1
+"England",2016,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",747.934143066406,744.958557128906,1
+"England",2017,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Digestive diseases","Rate",744.958557128906,744.958557128906,1
+"England",1990,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",51.9443778991699,76.2385177612305,1
+"England",1991,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",51.3175430297852,76.2385177612305,1
+"England",1992,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",50.8835487365723,76.2385177612305,1
+"England",1993,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",50.9390068054199,76.2385177612305,1
+"England",1994,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",51.0509643554688,76.2385177612305,1
+"England",1995,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",51.591480255127,76.2385177612305,1
+"England",1996,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",52.3958396911621,76.2385177612305,1
+"England",1997,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",53.1765441894531,76.2385177612305,1
+"England",1998,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",54.3301048278809,76.2385177612305,1
+"England",1999,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",55.8856658935547,76.2385177612305,1
+"England",2000,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",57.5266304016113,76.2385177612305,1
+"England",2001,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",59.7560882568359,76.2385177612305,1
+"England",2002,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",62.0744667053223,76.2385177612305,1
+"England",2003,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",65.2323989868164,76.2385177612305,1
+"England",2004,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",66.9966735839844,76.2385177612305,1
+"England",2005,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",70.124755859375,76.2385177612305,1
+"England",2006,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",73.6486587524414,76.2385177612305,1
+"England",2007,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",75.650749206543,76.2385177612305,1
+"England",2008,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",76.6045455932617,76.2385177612305,1
+"England",2009,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",76.5163345336914,76.2385177612305,1
+"England",2010,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",75.7432098388672,76.2385177612305,1
+"England",2011,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",74.8652191162109,76.2385177612305,1
+"England",2012,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",74.3333511352539,76.2385177612305,1
+"England",2013,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",74.4871597290039,76.2385177612305,1
+"England",2014,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",74.5718002319336,76.2385177612305,1
+"England",2015,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",75.0348052978516,76.2385177612305,1
+"England",2016,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",75.5457992553711,76.2385177612305,1
+"England",2017,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Enteric infections","Rate",76.2385177612305,76.2385177612305,1
+"England",1990,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",61.0188102722168,40.1853790283203,1
+"England",1991,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",69.7864074707031,40.1853790283203,1
+"England",1992,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",73.2115859985352,40.1853790283203,1
+"England",1993,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",81.70556640625,40.1853790283203,1
+"England",1994,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",90.2263946533203,40.1853790283203,1
+"England",1995,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",88.6543502807617,40.1853790283203,1
+"England",1996,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",66.9347915649414,40.1853790283203,1
+"England",1997,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",54.1870727539062,40.1853790283203,1
+"England",1998,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",41.074893951416,40.1853790283203,1
+"England",1999,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",41.438175201416,40.1853790283203,1
+"England",2000,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",41.5197219848633,40.1853790283203,1
+"England",2001,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",43.4161758422852,40.1853790283203,1
+"England",2002,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",43.6265144348145,40.1853790283203,1
+"England",2003,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",47.6945762634277,40.1853790283203,1
+"England",2004,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",44.4092979431152,40.1853790283203,1
+"England",2005,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",45.6507186889648,40.1853790283203,1
+"England",2006,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",46.8723220825195,40.1853790283203,1
+"England",2007,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",47.3201789855957,40.1853790283203,1
+"England",2008,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",47.7140960693359,40.1853790283203,1
+"England",2009,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",46.2499809265137,40.1853790283203,1
+"England",2010,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",45.6462020874023,40.1853790283203,1
+"England",2011,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",41.4750366210938,40.1853790283203,1
+"England",2012,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",40.664176940918,40.1853790283203,1
+"England",2013,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",41.0135078430176,40.1853790283203,1
+"England",2014,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",37.2041053771973,40.1853790283203,1
+"England",2015,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",41.4675903320312,40.1853790283203,1
+"England",2016,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",40.669116973877,40.1853790283203,1
+"England",2017,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","HIV/AIDS and sexually transmitted infections","Rate",40.1853790283203,40.1853790283203,1
+"England",1990,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",1012.67456054688,770.61669921875,1
+"England",1991,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",980.810607910156,770.61669921875,1
+"England",1992,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",932.914855957031,770.61669921875,1
+"England",1993,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",922.188720703125,770.61669921875,1
+"England",1994,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",915.056457519531,770.61669921875,1
+"England",1995,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",915.007263183594,770.61669921875,1
+"England",1996,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",928.068359375,770.61669921875,1
+"England",1997,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",899.943969726562,770.61669921875,1
+"England",1998,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",879.459350585938,770.61669921875,1
+"England",1999,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",885.099060058594,770.61669921875,1
+"England",2000,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",873.028686523438,770.61669921875,1
+"England",2001,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",863.863342285156,770.61669921875,1
+"England",2002,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",859.738525390625,770.61669921875,1
+"England",2003,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",879.713134765625,770.61669921875,1
+"England",2004,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",851.098999023438,770.61669921875,1
+"England",2005,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",835.7998046875,770.61669921875,1
+"England",2006,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",833.919250488281,770.61669921875,1
+"England",2007,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",822.779724121094,770.61669921875,1
+"England",2008,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",812.5361328125,770.61669921875,1
+"England",2009,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",811.013671875,770.61669921875,1
+"England",2010,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",796.409057617188,770.61669921875,1
+"England",2011,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",787.155639648438,770.61669921875,1
+"England",2012,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",771.200744628906,770.61669921875,1
+"England",2013,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",759.435607910156,770.61669921875,1
+"England",2014,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",759.211303710938,770.61669921875,1
+"England",2015,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",765.97509765625,770.61669921875,1
+"England",2016,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",764.404602050781,770.61669921875,1
+"England",2017,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Maternal and neonatal disorders","Rate",770.61669921875,770.61669921875,1
+"England",1990,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1871.25708007812,1843.91918945312,1
+"England",1991,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1870.47436523438,1843.91918945312,1
+"England",1992,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1869.92175292969,1843.91918945312,1
+"England",1993,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1869.64013671875,1843.91918945312,1
+"England",1994,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1869.59973144531,1843.91918945312,1
+"England",1995,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1869.7939453125,1843.91918945312,1
+"England",1996,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1870.53405761719,1843.91918945312,1
+"England",1997,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1871.46252441406,1843.91918945312,1
+"England",1998,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1872.01892089844,1843.91918945312,1
+"England",1999,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1872.4521484375,1843.91918945312,1
+"England",2000,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1871.75048828125,1843.91918945312,1
+"England",2001,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1866.83178710938,1843.91918945312,1
+"England",2002,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1856.73083496094,1843.91918945312,1
+"England",2003,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1844.97924804688,1843.91918945312,1
+"England",2004,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1834.66223144531,1843.91918945312,1
+"England",2005,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1829.29614257812,1843.91918945312,1
+"England",2006,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1829.59973144531,1843.91918945312,1
+"England",2007,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1832.84765625,1843.91918945312,1
+"England",2008,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1837.23364257812,1843.91918945312,1
+"England",2009,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1841.07482910156,1843.91918945312,1
+"England",2010,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1842.64758300781,1843.91918945312,1
+"England",2011,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1842.71069335938,1843.91918945312,1
+"England",2012,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1842.984375,1843.91918945312,1
+"England",2013,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1843.33959960938,1843.91918945312,1
+"England",2014,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1843.73913574219,1843.91918945312,1
+"England",2015,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1844.09362792969,1843.91918945312,1
+"England",2016,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1844.11010742188,1843.91918945312,1
+"England",2017,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Mental disorders","Rate",1843.91918945312,1843.91918945312,1
+"England",1990,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2280.71875,2455.80859375,1
+"England",1991,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2302.88256835938,2455.80859375,1
+"England",1992,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2324.0478515625,2455.80859375,1
+"England",1993,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2342.29272460938,2455.80859375,1
+"England",1994,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2354.05200195312,2455.80859375,1
+"England",1995,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2359.93872070312,2455.80859375,1
+"England",1996,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2363.7197265625,2455.80859375,1
+"England",1997,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2372.61669921875,2455.80859375,1
+"England",1998,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2384.505859375,2455.80859375,1
+"England",1999,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2397.14672851562,2455.80859375,1
+"England",2000,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2408.150390625,2455.80859375,1
+"England",2001,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2426.53637695312,2455.80859375,1
+"England",2002,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2453.33056640625,2455.80859375,1
+"England",2003,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2481.18676757812,2455.80859375,1
+"England",2004,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2500.60205078125,2455.80859375,1
+"England",2005,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2505.44799804688,2455.80859375,1
+"England",2006,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2489.54541015625,2455.80859375,1
+"England",2007,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2458.0615234375,2455.80859375,1
+"England",2008,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2422.6943359375,2455.80859375,1
+"England",2009,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2392.34350585938,2455.80859375,1
+"England",2010,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2379.06567382812,2455.80859375,1
+"England",2011,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2378.30712890625,2455.80859375,1
+"England",2012,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2380.45874023438,2455.80859375,1
+"England",2013,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2386.2373046875,2455.80859375,1
+"England",2014,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2395.67041015625,2455.80859375,1
+"England",2015,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2410.10571289062,2455.80859375,1
+"England",2016,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2429.92065429688,2455.80859375,1
+"England",2017,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Musculoskeletal disorders","Rate",2455.80859375,2455.80859375,1
+"England",1990,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",25.5846672058105,18.8623943328857,1
+"England",1991,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",24.3413848876953,18.8623943328857,1
+"England",1992,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",23.259407043457,18.8623943328857,1
+"England",1993,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",22.3365287780762,18.8623943328857,1
+"England",1994,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",21.6602954864502,18.8623943328857,1
+"England",1995,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",21.2671394348145,18.8623943328857,1
+"England",1996,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",21.0543403625488,18.8623943328857,1
+"England",1997,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",20.9243392944336,18.8623943328857,1
+"England",1998,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",20.8664703369141,18.8623943328857,1
+"England",1999,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",20.855541229248,18.8623943328857,1
+"England",2000,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",20.9190998077393,18.8623943328857,1
+"England",2001,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",21.3149604797363,18.8623943328857,1
+"England",2002,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",22.1102485656738,18.8623943328857,1
+"England",2003,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",23.0594615936279,18.8623943328857,1
+"England",2004,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",23.7605075836182,18.8623943328857,1
+"England",2005,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",23.9978981018066,18.8623943328857,1
+"England",2006,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",23.8918075561523,18.8623943328857,1
+"England",2007,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",23.7472820281982,18.8623943328857,1
+"England",2008,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",23.5905323028564,18.8623943328857,1
+"England",2009,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",23.4219017028809,18.8623943328857,1
+"England",2010,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",23.1998271942139,18.8623943328857,1
+"England",2011,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",22.9666633605957,18.8623943328857,1
+"England",2012,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",22.5560836791992,18.8623943328857,1
+"England",2013,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",22.0052032470703,18.8623943328857,1
+"England",2014,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",21.3308010101318,18.8623943328857,1
+"England",2015,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",20.5576477050781,18.8623943328857,1
+"England",2016,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",19.7509689331055,18.8623943328857,1
+"England",2017,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neglected tropical diseases and malaria","Rate",18.8623943328857,18.8623943328857,1
+"England",1990,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",4065.79370117188,2961.2138671875,1
+"England",1991,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",4015.8427734375,2961.2138671875,1
+"England",1992,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",3951.53686523438,2961.2138671875,1
+"England",1993,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",3942.556640625,2961.2138671875,1
+"England",1994,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",3830.60864257812,2961.2138671875,1
+"England",1995,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",3826.67822265625,2961.2138671875,1
+"England",1996,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",3758.04638671875,2961.2138671875,1
+"England",1997,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",3675.96899414062,2961.2138671875,1
+"England",1998,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",3638.80883789062,2961.2138671875,1
+"England",1999,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",3576.04296875,2961.2138671875,1
+"England",2000,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",3503.25366210938,2961.2138671875,1
+"England",2001,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",3457.14428710938,2961.2138671875,1
+"England",2002,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",3442.259765625,2961.2138671875,1
+"England",2003,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",3416.625,2961.2138671875,1
+"England",2004,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",3303.72412109375,2961.2138671875,1
+"England",2005,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",3256.12915039062,2961.2138671875,1
+"England",2006,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",3253.68383789062,2961.2138671875,1
+"England",2007,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",3194.38793945312,2961.2138671875,1
+"England",2008,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",3187.44775390625,2961.2138671875,1
+"England",2009,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",3118.70678710938,2961.2138671875,1
+"England",2010,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",3078.01489257812,2961.2138671875,1
+"England",2011,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",2998.50561523438,2961.2138671875,1
+"England",2012,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",2949.14916992188,2961.2138671875,1
+"England",2013,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",2963.02294921875,2961.2138671875,1
+"England",2014,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",2930.31005859375,2961.2138671875,1
+"England",2015,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",2939.59375,2961.2138671875,1
+"England",2016,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",2963.685546875,2961.2138671875,1
+"England",2017,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neoplasms","Rate",2961.2138671875,2961.2138671875,1
+"England",1990,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1653.31921386719,1643.35766601562,1
+"England",1991,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1647.09729003906,1643.35766601562,1
+"England",1992,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1638.08935546875,1643.35766601562,1
+"England",1993,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1638.32470703125,1643.35766601562,1
+"England",1994,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1627.39416503906,1643.35766601562,1
+"England",1995,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1631.70288085938,1643.35766601562,1
+"England",1996,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1630.79223632812,1643.35766601562,1
+"England",1997,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1628.06274414062,1643.35766601562,1
+"England",1998,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1629.37548828125,1643.35766601562,1
+"England",1999,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1629.93310546875,1643.35766601562,1
+"England",2000,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1628.72705078125,1643.35766601562,1
+"England",2001,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1635.17980957031,1643.35766601562,1
+"England",2002,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1643.96057128906,1643.35766601562,1
+"England",2003,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1653.29333496094,1643.35766601562,1
+"England",2004,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1643.97595214844,1643.35766601562,1
+"England",2005,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1645.06579589844,1643.35766601562,1
+"England",2006,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1650.06628417969,1643.35766601562,1
+"England",2007,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1647.32189941406,1643.35766601562,1
+"England",2008,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1650.90576171875,1643.35766601562,1
+"England",2009,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1642.37548828125,1643.35766601562,1
+"England",2010,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1639.2353515625,1643.35766601562,1
+"England",2011,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1631.11181640625,1643.35766601562,1
+"England",2012,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1632.21508789062,1643.35766601562,1
+"England",2013,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1639.55859375,1643.35766601562,1
+"England",2014,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1638.59033203125,1643.35766601562,1
+"England",2015,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1646.96069335938,1643.35766601562,1
+"England",2016,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1649.73547363281,1643.35766601562,1
+"England",2017,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Neurological disorders","Rate",1643.35766601562,1643.35766601562,1
+"England",1990,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",242.101348876953,147.717895507812,1
+"England",1991,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",235.575119018555,147.717895507812,1
+"England",1992,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",229.054229736328,147.717895507812,1
+"England",1993,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",222.910781860352,147.717895507812,1
+"England",1994,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",217.203353881836,147.717895507812,1
+"England",1995,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",212.496917724609,147.717895507812,1
+"England",1996,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",208.41960144043,147.717895507812,1
+"England",1997,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",203.893707275391,147.717895507812,1
+"England",1998,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",199.384796142578,147.717895507812,1
+"England",1999,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",195.119918823242,147.717895507812,1
+"England",2000,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",191.373046875,147.717895507812,1
+"England",2001,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",187.888397216797,147.717895507812,1
+"England",2002,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",183.647598266602,147.717895507812,1
+"England",2003,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",179.152679443359,147.717895507812,1
+"England",2004,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",174.862045288086,147.717895507812,1
+"England",2005,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",171.643539428711,147.717895507812,1
+"England",2006,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",169.170654296875,147.717895507812,1
+"England",2007,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",166.310317993164,147.717895507812,1
+"England",2008,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",163.410949707031,147.717895507812,1
+"England",2009,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",160.753051757812,147.717895507812,1
+"England",2010,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",158.772613525391,147.717895507812,1
+"England",2011,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",157.412353515625,147.717895507812,1
+"England",2012,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",155.964294433594,147.717895507812,1
+"England",2013,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",154.42790222168,147.717895507812,1
+"England",2014,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",152.791366577148,147.717895507812,1
+"England",2015,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",151.137710571289,147.717895507812,1
+"England",2016,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",149.459609985352,147.717895507812,1
+"England",2017,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Nutritional deficiencies","Rate",147.717895507812,147.717895507812,1
+"England",1990,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",142.42658996582,74.3907928466797,1
+"England",1991,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",138.577041625977,74.3907928466797,1
+"England",1992,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",122.376663208008,74.3907928466797,1
+"England",1993,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",123.032348632812,74.3907928466797,1
+"England",1994,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",122.255447387695,74.3907928466797,1
+"England",1995,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",125.700378417969,74.3907928466797,1
+"England",1996,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",128.399963378906,74.3907928466797,1
+"England",1997,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",126.114700317383,74.3907928466797,1
+"England",1998,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",124.145553588867,74.3907928466797,1
+"England",1999,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",122.891136169434,74.3907928466797,1
+"England",2000,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",118.609130859375,74.3907928466797,1
+"England",2001,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",114.405303955078,74.3907928466797,1
+"England",2002,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",109.59538269043,74.3907928466797,1
+"England",2003,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",108.759941101074,74.3907928466797,1
+"England",2004,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",101.712394714355,74.3907928466797,1
+"England",2005,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",98.3552780151367,74.3907928466797,1
+"England",2006,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",95.9345169067383,74.3907928466797,1
+"England",2007,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",93.1233673095703,74.3907928466797,1
+"England",2008,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",90.0607452392578,74.3907928466797,1
+"England",2009,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",86.6385116577148,74.3907928466797,1
+"England",2010,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",83.3705444335938,74.3907928466797,1
+"England",2011,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",80.394157409668,74.3907928466797,1
+"England",2012,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",77.2321395874023,74.3907928466797,1
+"England",2013,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",75.6937637329102,74.3907928466797,1
+"England",2014,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",74.9325866699219,74.3907928466797,1
+"England",2015,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",74.9737701416016,74.3907928466797,1
+"England",2016,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",74.1341171264648,74.3907928466797,1
+"England",2017,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other infectious diseases","Rate",74.3907928466797,74.3907928466797,1
+"England",1990,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1611.47937011719,1118.302734375,1
+"England",1991,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1516.20617675781,1118.302734375,1
+"England",1992,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1414.55651855469,1118.302734375,1
+"England",1993,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1369.44348144531,1118.302734375,1
+"England",1994,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1333.64831542969,1118.302734375,1
+"England",1995,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1316.08215332031,1118.302734375,1
+"England",1996,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1312.294921875,1118.302734375,1
+"England",1997,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1283.92602539062,1118.302734375,1
+"England",1998,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1260.77612304688,1118.302734375,1
+"England",1999,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1266.03698730469,1118.302734375,1
+"England",2000,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1260.12158203125,1118.302734375,1
+"England",2001,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1261.30651855469,1118.302734375,1
+"England",2002,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1259.21215820312,1118.302734375,1
+"England",2003,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1274.96936035156,1118.302734375,1
+"England",2004,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1241.61694335938,1118.302734375,1
+"England",2005,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1234.15576171875,1118.302734375,1
+"England",2006,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1237.38537597656,1118.302734375,1
+"England",2007,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1220.22790527344,1118.302734375,1
+"England",2008,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1201.07287597656,1118.302734375,1
+"England",2009,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1182.83837890625,1118.302734375,1
+"England",2010,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1158.41760253906,1118.302734375,1
+"England",2011,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1141.15600585938,1118.302734375,1
+"England",2012,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1123.70007324219,1118.302734375,1
+"England",2013,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1109.93701171875,1118.302734375,1
+"England",2014,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1111.35131835938,1118.302734375,1
+"England",2015,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1115.27172851562,1118.302734375,1
+"England",2016,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1114.18444824219,1118.302734375,1
+"England",2017,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Other non-communicable diseases","Rate",1118.302734375,1118.302734375,1
+"England",1990,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",645.369873046875,468.687561035156,1
+"England",1991,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",636.924377441406,468.687561035156,1
+"England",1992,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",634.03955078125,468.687561035156,1
+"England",1993,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",685.7451171875,468.687561035156,1
+"England",1994,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",696.124877929688,468.687561035156,1
+"England",1995,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",725.100952148438,468.687561035156,1
+"England",1996,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",737.733764648438,468.687561035156,1
+"England",1997,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",739.1708984375,468.687561035156,1
+"England",1998,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",732.152099609375,468.687561035156,1
+"England",1999,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",718.385864257812,468.687561035156,1
+"England",2000,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",677.40087890625,468.687561035156,1
+"England",2001,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",614.040893554688,468.687561035156,1
+"England",2002,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",589.962524414062,468.687561035156,1
+"England",2003,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",576.127197265625,468.687561035156,1
+"England",2004,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",543.598876953125,468.687561035156,1
+"England",2005,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",527.821044921875,468.687561035156,1
+"England",2006,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",517.494995117188,468.687561035156,1
+"England",2007,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",503.631225585938,468.687561035156,1
+"England",2008,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",498.523620605469,468.687561035156,1
+"England",2009,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",484.503295898438,468.687561035156,1
+"England",2010,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",472.848175048828,468.687561035156,1
+"England",2011,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",462.837066650391,468.687561035156,1
+"England",2012,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",455.524444580078,468.687561035156,1
+"England",2013,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",457.540954589844,468.687561035156,1
+"England",2014,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",461.009155273438,468.687561035156,1
+"England",2015,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",470.578948974609,468.687561035156,1
+"England",2016,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",473.135192871094,468.687561035156,1
+"England",2017,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Respiratory infections and tuberculosis","Rate",468.687561035156,468.687561035156,1
+"England",1990,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",509.606567382812,383.90869140625,1
+"England",1991,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",504.889282226562,383.90869140625,1
+"England",1992,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",494.583648681641,383.90869140625,1
+"England",1993,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",495.005065917969,383.90869140625,1
+"England",1994,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",481.999572753906,383.90869140625,1
+"England",1995,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",487.439483642578,383.90869140625,1
+"England",1996,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",480.813659667969,383.90869140625,1
+"England",1997,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",470.61474609375,383.90869140625,1
+"England",1998,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",474.369995117188,383.90869140625,1
+"England",1999,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",465.279174804688,383.90869140625,1
+"England",2000,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",453.259857177734,383.90869140625,1
+"England",2001,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",441.497619628906,383.90869140625,1
+"England",2002,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",434.117706298828,383.90869140625,1
+"England",2003,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",431.126556396484,383.90869140625,1
+"England",2004,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",410.829895019531,383.90869140625,1
+"England",2005,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",409.382965087891,383.90869140625,1
+"England",2006,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",414.056427001953,383.90869140625,1
+"England",2007,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",411.052124023438,383.90869140625,1
+"England",2008,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",413.111450195312,383.90869140625,1
+"England",2009,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",410.246490478516,383.90869140625,1
+"England",2010,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",399.412353515625,383.90869140625,1
+"England",2011,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",381.242858886719,383.90869140625,1
+"England",2012,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",371.203399658203,383.90869140625,1
+"England",2013,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",376.745208740234,383.90869140625,1
+"England",2014,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",379.232452392578,383.90869140625,1
+"England",2015,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",382.34814453125,383.90869140625,1
+"England",2016,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",384.423522949219,383.90869140625,1
+"England",2017,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Self-harm and interpersonal violence","Rate",383.90869140625,383.90869140625,1
+"England",1990,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",536.807495117188,523.739440917969,1
+"England",1991,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",534.837219238281,523.739440917969,1
+"England",1992,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",532.997375488281,523.739440917969,1
+"England",1993,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",531.341186523438,523.739440917969,1
+"England",1994,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",529.945190429688,523.739440917969,1
+"England",1995,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",528.866027832031,523.739440917969,1
+"England",1996,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",527.947326660156,523.739440917969,1
+"England",1997,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",527.002990722656,523.739440917969,1
+"England",1998,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",526.091125488281,523.739440917969,1
+"England",1999,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",525.28515625,523.739440917969,1
+"England",2000,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",524.6123046875,523.739440917969,1
+"England",2001,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",524.035522460938,523.739440917969,1
+"England",2002,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",523.531799316406,523.739440917969,1
+"England",2003,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",523.142639160156,523.739440917969,1
+"England",2004,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",522.903015136719,523.739440917969,1
+"England",2005,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",522.773376464844,523.739440917969,1
+"England",2006,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",523.589416503906,523.739440917969,1
+"England",2007,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",525.588989257812,523.739440917969,1
+"England",2008,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",527.896362304688,523.739440917969,1
+"England",2009,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",529.740295410156,523.739440917969,1
+"England",2010,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",530.276794433594,523.739440917969,1
+"England",2011,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",529.806518554688,523.739440917969,1
+"England",2012,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",529.221496582031,523.739440917969,1
+"England",2013,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",528.475341796875,523.739440917969,1
+"England",2014,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",527.584594726562,523.739440917969,1
+"England",2015,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",526.513305664062,523.739440917969,1
+"England",2016,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",525.220397949219,523.739440917969,1
+"England",2017,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Sense organ diseases","Rate",523.739440917969,523.739440917969,1
+"England",1990,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",759.894348144531,807.814392089844,1
+"England",1991,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",765.173950195312,807.814392089844,1
+"England",1992,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",770.095336914062,807.814392089844,1
+"England",1993,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",774.758850097656,807.814392089844,1
+"England",1994,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",778.488464355469,807.814392089844,1
+"England",1995,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",781.411987304688,807.814392089844,1
+"England",1996,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",783.640686035156,807.814392089844,1
+"England",1997,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",785.591369628906,807.814392089844,1
+"England",1998,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",787.529052734375,807.814392089844,1
+"England",1999,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",789.611328125,807.814392089844,1
+"England",2000,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",791.763305664062,807.814392089844,1
+"England",2001,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",794.263732910156,807.814392089844,1
+"England",2002,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",797.194152832031,807.814392089844,1
+"England",2003,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",800.057800292969,807.814392089844,1
+"England",2004,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",802.223937988281,807.814392089844,1
+"England",2005,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",804.223937988281,807.814392089844,1
+"England",2006,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",805.804016113281,807.814392089844,1
+"England",2007,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",807.104736328125,807.814392089844,1
+"England",2008,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",808.37646484375,807.814392089844,1
+"England",2009,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",809.122619628906,807.814392089844,1
+"England",2010,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",809.809265136719,807.814392089844,1
+"England",2011,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",809.999755859375,807.814392089844,1
+"England",2012,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",810.166625976562,807.814392089844,1
+"England",2013,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",810.259033203125,807.814392089844,1
+"England",2014,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",809.83984375,807.814392089844,1
+"England",2015,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",809.521667480469,807.814392089844,1
+"England",2016,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",808.996826171875,807.814392089844,1
+"England",2017,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Skin and subcutaneous diseases","Rate",807.814392089844,807.814392089844,1
+"England",1990,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",473.0849609375,762.880737304688,1
+"England",1991,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",486.429229736328,762.880737304688,1
+"England",1992,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",499.319427490234,762.880737304688,1
+"England",1993,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",516.232055664062,762.880737304688,1
+"England",1994,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",531.972595214844,762.880737304688,1
+"England",1995,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",553.546264648438,762.880737304688,1
+"England",1996,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",572.495239257812,762.880737304688,1
+"England",1997,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",589.495544433594,762.880737304688,1
+"England",1998,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",608.875610351562,762.880737304688,1
+"England",1999,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",624.364379882812,762.880737304688,1
+"England",2000,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",635.961547851562,762.880737304688,1
+"England",2001,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",660.780334472656,762.880737304688,1
+"England",2002,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",676.338317871094,762.880737304688,1
+"England",2003,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",689.537048339844,762.880737304688,1
+"England",2004,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",696.368774414062,762.880737304688,1
+"England",2005,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",707.530029296875,762.880737304688,1
+"England",2006,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",728.237365722656,762.880737304688,1
+"England",2007,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",741.002746582031,762.880737304688,1
+"England",2008,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",759.967224121094,762.880737304688,1
+"England",2009,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",762.714538574219,762.880737304688,1
+"England",2010,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",758.848815917969,762.880737304688,1
+"England",2011,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",746.750061035156,762.880737304688,1
+"England",2012,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",739.468383789062,762.880737304688,1
+"England",2013,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",751.969665527344,762.880737304688,1
+"England",2014,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",758.054260253906,762.880737304688,1
+"England",2015,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",763.980651855469,762.880737304688,1
+"England",2016,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",767.503662109375,762.880737304688,1
+"England",2017,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Substance use disorders","Rate",762.880737304688,762.880737304688,1
+"England",1990,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",646.524169921875,298.579650878906,1
+"England",1991,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",618.280212402344,298.579650878906,1
+"England",1992,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",577.549072265625,298.579650878906,1
+"England",1993,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",555.032897949219,298.579650878906,1
+"England",1994,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",530.455383300781,298.579650878906,1
+"England",1995,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",526.890380859375,298.579650878906,1
+"England",1996,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",521.747314453125,298.579650878906,1
+"England",1997,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",512.097778320312,298.579650878906,1
+"England",1998,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",499.308532714844,298.579650878906,1
+"England",1999,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",487.216156005859,298.579650878906,1
+"England",2000,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",478.322845458984,298.579650878906,1
+"England",2001,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",469.049621582031,298.579650878906,1
+"England",2002,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",461.5419921875,298.579650878906,1
+"England",2003,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",450.726501464844,298.579650878906,1
+"England",2004,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",427.584350585938,298.579650878906,1
+"England",2005,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",415.454345703125,298.579650878906,1
+"England",2006,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",416.842926025391,298.579650878906,1
+"England",2007,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",401.108489990234,298.579650878906,1
+"England",2008,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",386.955932617188,298.579650878906,1
+"England",2009,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",363.335235595703,298.579650878906,1
+"England",2010,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",340.512023925781,298.579650878906,1
+"England",2011,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",319.497650146484,298.579650878906,1
+"England",2012,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",305.326232910156,298.579650878906,1
+"England",2013,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",302.057403564453,298.579650878906,1
+"England",2014,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",299.777099609375,298.579650878906,1
+"England",2015,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",296.933502197266,298.579650878906,1
+"England",2016,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",295.792022705078,298.579650878906,1
+"England",2017,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Transport injuries","Rate",298.579650878906,298.579650878906,1
+"England",1990,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",950.106140136719,902.839172363281,1
+"England",1991,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",929.474182128906,902.839172363281,1
+"England",1992,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",910.412353515625,902.839172363281,1
+"England",1993,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",907.209716796875,902.839172363281,1
+"England",1994,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",899.752136230469,902.839172363281,1
+"England",1995,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",903.313781738281,902.839172363281,1
+"England",1996,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",904.740234375,902.839172363281,1
+"England",1997,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",902.829895019531,902.839172363281,1
+"England",1998,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",902.668212890625,902.839172363281,1
+"England",1999,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",901.056518554688,902.839172363281,1
+"England",2000,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",896.507873535156,902.839172363281,1
+"England",2001,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",891.940490722656,902.839172363281,1
+"England",2002,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",891.236328125,902.839172363281,1
+"England",2003,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",894.224853515625,902.839172363281,1
+"England",2004,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",884.2275390625,902.839172363281,1
+"England",2005,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",885.2490234375,902.839172363281,1
+"England",2006,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",891.355163574219,902.839172363281,1
+"England",2007,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",891.37451171875,902.839172363281,1
+"England",2008,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",894.469665527344,902.839172363281,1
+"England",2009,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",891.7822265625,902.839172363281,1
+"England",2010,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",888.006103515625,902.839172363281,1
+"England",2011,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",882.002258300781,902.839172363281,1
+"England",2012,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",880.396911621094,902.839172363281,1
+"England",2013,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",887.523315429688,902.839172363281,1
+"England",2014,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",891.108459472656,902.839172363281,1
+"England",2015,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",896.125549316406,902.839172363281,1
+"England",2016,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",900.432556152344,902.839172363281,1
+"England",2017,"DALYs (Disability-Adjusted Life Years)","Both","Age-standardized","Unintentional injuries","Rate",902.839172363281,902.839172363281,1
